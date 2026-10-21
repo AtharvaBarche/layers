@@ -1,0 +1,16 @@
+{
+  "image_width": 1400,
+  "image_height": 900,
+  "coordinate_system": "original_image_pixels",
+  "raw_mask": "thick_pipe_mask_raw.png",
+  "cleaned_mask": "thick_pipe_mask_cleaned.png",
+  "centerline_count": 8,
+  "contour_count": 3,
+  "smoothing": {
+    "centerline_rdp_epsilon_px": 1.0,
+    "contour_epsilon_px": 1.0,
+    "note": "Epsilon stays at 1 px so junctions are not moved."
+  },
+  "instrument_mask": "../instrument_mask.png",
+  "connections": "../connections.json"
+}

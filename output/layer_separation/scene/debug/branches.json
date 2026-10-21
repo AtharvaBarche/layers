@@ -1,0 +1,8498 @@
+{
+  "branches": [
+    {
+      "id": "BR-0001",
+      "label": "ambiguous",
+      "confidence": 0.7363,
+      "width": 12.0,
+      "width_std": 0.505,
+      "length": 26.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        40,
+        90
+      ],
+      "end": [
+        66,
+        90
+      ],
+      "component_id": "CC-0001",
+      "inside_instrument": null,
+      "reasons": [
+        "below_min_length"
+      ],
+      "pixel_count": 27
+    },
+    {
+      "id": "BR-0004",
+      "label": "ambiguous",
+      "confidence": 0.758,
+      "width": 8.0,
+      "width_std": 0.132,
+      "length": 229.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        200,
+        700
+      ],
+      "end": [
+        429,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:ambiguous"
+      ],
+      "pixel_count": 230
+    },
+    {
+      "id": "BR-0005",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        250
+      ],
+      "end": [
+        230,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0006",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 13.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        250
+      ],
+      "end": [
+        230,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0007",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 1.206,
+      "length": 38.83,
+      "orientation": 176.99,
+      "linearity": 0.679,
+      "start": [
+        229,
+        328
+      ],
+      "end": [
+        191,
+        330
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 39
+    },
+    {
+      "id": "BR-0008",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 79.41,
+      "orientation": 90.73,
+      "linearity": 0.906,
+      "start": [
+        191,
+        330
+      ],
+      "end": [
+        190,
+        409
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 80
+    },
+    {
+      "id": "BR-0009",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 39.41,
+      "orientation": 1.47,
+      "linearity": 0.829,
+      "start": [
+        190,
+        409
+      ],
+      "end": [
+        229,
+        410
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 40
+    },
+    {
+      "id": "BR-0010",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        328
+      ],
+      "end": [
+        230,
+        327
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0011",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.0,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        328
+      ],
+      "end": [
+        230,
+        328
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0012",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        410
+      ],
+      "end": [
+        230,
+        410
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0013",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.197,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        410
+      ],
+      "end": [
+        230,
+        411
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0014",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.597,
+      "width_std": 0.597,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        560
+      ],
+      "end": [
+        230,
+        559
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0015",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        560
+      ],
+      "end": [
+        230,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0016",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 13.0,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        250
+      ],
+      "end": [
+        230,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0017",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        250
+      ],
+      "end": [
+        231,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0019",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 13.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        251
+      ],
+      "end": [
+        231,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0020",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        327
+      ],
+      "end": [
+        230,
+        328
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0021",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 1.61,
+      "length": 39.83,
+      "orientation": 2.94,
+      "linearity": 0.667,
+      "start": [
+        230,
+        328
+      ],
+      "end": [
+        269,
+        330
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 40
+    },
+    {
+      "id": "BR-0022",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 79.41,
+      "orientation": 89.27,
+      "linearity": 0.906,
+      "start": [
+        269,
+        330
+      ],
+      "end": [
+        270,
+        409
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 80
+    },
+    {
+      "id": "BR-0023",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 39.41,
+      "orientation": 178.53,
+      "linearity": 0.829,
+      "start": [
+        270,
+        409
+      ],
+      "end": [
+        231,
+        410
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 40
+    },
+    {
+      "id": "BR-0024",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.394,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        410
+      ],
+      "end": [
+        230,
+        411
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0025",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        410
+      ],
+      "end": [
+        231,
+        410
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0026",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        411
+      ],
+      "end": [
+        230,
+        412
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0028",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.197,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        411
+      ],
+      "end": [
+        231,
+        410
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0029",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.597,
+      "width_std": 0.597,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        559
+      ],
+      "end": [
+        230,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0030",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.597,
+      "width_std": 0.597,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        559
+      ],
+      "end": [
+        231,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0031",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        560
+      ],
+      "end": [
+        231,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0034",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        429,
+        560
+      ],
+      "end": [
+        430,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0035",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.597,
+      "width_std": 0.597,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        429,
+        560
+      ],
+      "end": [
+        430,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0036",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        429,
+        700
+      ],
+      "end": [
+        430,
+        699
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0037",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.391,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        429,
+        700
+      ],
+      "end": [
+        430,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0038",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        429,
+        700
+      ],
+      "end": [
+        430,
+        701
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0039",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.597,
+      "width_std": 0.597,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        560
+      ],
+      "end": [
+        430,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0040",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        560
+      ],
+      "end": [
+        431,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0042",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.597,
+      "width_std": 0.597,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        561
+      ],
+      "end": [
+        431,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0043",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.197,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        699
+      ],
+      "end": [
+        430,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0044",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        699
+      ],
+      "end": [
+        431,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0045",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.197,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        700
+      ],
+      "end": [
+        430,
+        701
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0046",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.391,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        700
+      ],
+      "end": [
+        431,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0048",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        701
+      ],
+      "end": [
+        431,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0050",
+      "label": "ambiguous",
+      "confidence": 0.759,
+      "width": 8.0,
+      "width_std": 0.068,
+      "length": 328.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        431,
+        700
+      ],
+      "end": [
+        759,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:ambiguous"
+      ],
+      "pixel_count": 329
+    },
+    {
+      "id": "BR-0051",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        475,
+        250
+      ],
+      "end": [
+        476,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0052",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        475,
+        250
+      ],
+      "end": [
+        476,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0053",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.0,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        476,
+        249
+      ],
+      "end": [
+        476,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0054",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 1.327,
+      "length": 138.37,
+      "orientation": 0.0,
+      "linearity": 0.0,
+      "start": [
+        476,
+        249
+      ],
+      "end": [
+        564,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 117
+    },
+    {
+      "id": "BR-0055",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 1.649,
+      "length": 140.95,
+      "orientation": 0.0,
+      "linearity": 0.0,
+      "start": [
+        476,
+        250
+      ],
+      "end": [
+        564,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 120
+    },
+    {
+      "id": "BR-0056",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.0,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        564,
+        249
+      ],
+      "end": [
+        564,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0057",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        564,
+        249
+      ],
+      "end": [
+        565,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0058",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        564,
+        250
+      ],
+      "end": [
+        565,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0059",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        565,
+        250
+      ],
+      "end": [
+        566,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0061",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        250
+      ],
+      "end": [
+        760,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0062",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.984,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        250
+      ],
+      "end": [
+        760,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0063",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        250
+      ],
+      "end": [
+        760,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0064",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.194,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        560
+      ],
+      "end": [
+        760,
+        559
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0065",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.797,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        560
+      ],
+      "end": [
+        760,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0066",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.194,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        560
+      ],
+      "end": [
+        760,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0067",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        700
+      ],
+      "end": [
+        760,
+        699
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0068",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.391,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        700
+      ],
+      "end": [
+        760,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0069",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        759,
+        700
+      ],
+      "end": [
+        760,
+        701
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0071",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.384,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        249
+      ],
+      "end": [
+        760,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0072",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        249
+      ],
+      "end": [
+        761,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0073",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.384,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        250
+      ],
+      "end": [
+        760,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0074",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.984,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        250
+      ],
+      "end": [
+        761,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0076",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        251
+      ],
+      "end": [
+        761,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0077",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.797,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        559
+      ],
+      "end": [
+        760,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0078",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.194,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        559
+      ],
+      "end": [
+        761,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0079",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.797,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        560
+      ],
+      "end": [
+        760,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0080",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.797,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        560
+      ],
+      "end": [
+        761,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0082",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 7.194,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        561
+      ],
+      "end": [
+        761,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0083",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.197,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        699
+      ],
+      "end": [
+        760,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0084",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        699
+      ],
+      "end": [
+        761,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0085",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.197,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        700
+      ],
+      "end": [
+        760,
+        701
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0086",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 9.391,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        700
+      ],
+      "end": [
+        761,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0088",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 8.594,
+      "width_std": 0.194,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        701
+      ],
+      "end": [
+        761,
+        700
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0091",
+      "label": "ambiguous",
+      "confidence": 0.7489,
+      "width": 8.0,
+      "width_std": 0.298,
+      "length": 340.41,
+      "orientation": 179.83,
+      "linearity": 0.976,
+      "start": [
+        761,
+        700
+      ],
+      "end": [
+        1101,
+        699
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:ambiguous"
+      ],
+      "pixel_count": 341
+    },
+    {
+      "id": "BR-0092",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 11.984,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        872,
+        250
+      ],
+      "end": [
+        873,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0093",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.984,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        872,
+        250
+      ],
+      "end": [
+        873,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0094",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 11.984,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        872,
+        250
+      ],
+      "end": [
+        873,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0095",
+      "label": "ambiguous",
+      "confidence": 0.267,
+      "width": 4.394,
+      "width_std": 1.418,
+      "length": 43.77,
+      "orientation": 130.16,
+      "linearity": 0.378,
+      "start": [
+        873,
+        249
+      ],
+      "end": [
+        900,
+        217
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ],
+      "pixel_count": 34
+    },
+    {
+      "id": "BR-0096",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.394,
+      "width_std": 0.346,
+      "length": 16.56,
+      "orientation": 42.51,
+      "linearity": 0.792,
+      "start": [
+        900,
+        217
+      ],
+      "end": [
+        912,
+        228
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 13
+    },
+    {
+      "id": "BR-0097",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.505,
+      "length": 11.31,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        912,
+        228
+      ],
+      "end": [
+        920,
+        236
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 9
+    },
+    {
+      "id": "BR-0098",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        873,
+        249
+      ],
+      "end": [
+        873,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0099",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        873,
+        249
+      ],
+      "end": [
+        874,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0100",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        873,
+        250
+      ],
+      "end": [
+        873,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0101",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.591,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        873,
+        250
+      ],
+      "end": [
+        874,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0102",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.394,
+      "width_std": 2.078,
+      "length": 15.9,
+      "orientation": 61.7,
+      "linearity": 0.12,
+      "start": [
+        873,
+        251
+      ],
+      "end": [
+        880,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 14
+    },
+    {
+      "id": "BR-0103",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.0,
+      "length": 14.14,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        880,
+        264
+      ],
+      "end": [
+        890,
+        274
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 11
+    },
+    {
+      "id": "BR-0104",
+      "label": "ambiguous",
+      "confidence": 0.1962,
+      "width": 4.394,
+      "width_std": 0.141,
+      "length": 25.21,
+      "orientation": 3.01,
+      "linearity": 0.0,
+      "start": [
+        890,
+        274
+      ],
+      "end": [
+        909,
+        275
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ],
+      "pixel_count": 20
+    },
+    {
+      "id": "BR-0105",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.0,
+      "length": 14.14,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        909,
+        275
+      ],
+      "end": [
+        919,
+        265
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 11
+    },
+    {
+      "id": "BR-0106",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        873,
+        251
+      ],
+      "end": [
+        874,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0107",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.0,
+      "width_std": 0.186,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        874,
+        250
+      ],
+      "end": [
+        876,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0108",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.0,
+      "width_std": 0.061,
+      "length": 40.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        876,
+        250
+      ],
+      "end": [
+        916,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 41
+    },
+    {
+      "id": "BR-0109",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        916,
+        250
+      ],
+      "end": [
+        917,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0110",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.591,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        916,
+        250
+      ],
+      "end": [
+        917,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0111",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        916,
+        250
+      ],
+      "end": [
+        917,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0112",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 2.45,
+      "length": 10.83,
+      "orientation": 101.31,
+      "linearity": 0.383,
+      "start": [
+        917,
+        249
+      ],
+      "end": [
+        919,
+        239
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 11
+    },
+    {
+      "id": "BR-0113",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        917,
+        249
+      ],
+      "end": [
+        917,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0114",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.188,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        917,
+        249
+      ],
+      "end": [
+        918,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0115",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        917,
+        250
+      ],
+      "end": [
+        917,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0116",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        917,
+        250
+      ],
+      "end": [
+        918,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0117",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 2.29,
+      "length": 13.24,
+      "orientation": 75.96,
+      "linearity": 0.317,
+      "start": [
+        917,
+        251
+      ],
+      "end": [
+        920,
+        263
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 13
+    },
+    {
+      "id": "BR-0118",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.188,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        917,
+        251
+      ],
+      "end": [
+        918,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0119",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 10.394,
+      "width_std": 0.595,
+      "length": 8.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        918,
+        250
+      ],
+      "end": [
+        926,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 9
+    },
+    {
+      "id": "BR-0120",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        238
+      ],
+      "end": [
+        919,
+        239
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0121",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        238
+      ],
+      "end": [
+        920,
+        237
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0122",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        238
+      ],
+      "end": [
+        920,
+        238
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0123",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        239
+      ],
+      "end": [
+        920,
+        238
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0124",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        264
+      ],
+      "end": [
+        919,
+        265
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0125",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        264
+      ],
+      "end": [
+        920,
+        263
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0126",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.0,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        264
+      ],
+      "end": [
+        920,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0127",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.197,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        919,
+        265
+      ],
+      "end": [
+        920,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0128",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        236
+      ],
+      "end": [
+        920,
+        237
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0129",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        236
+      ],
+      "end": [
+        921,
+        236
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0130",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.197,
+      "width_std": 0.803,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        237
+      ],
+      "end": [
+        920,
+        238
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0131",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        237
+      ],
+      "end": [
+        921,
+        236
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0132",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        237
+      ],
+      "end": [
+        921,
+        238
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0133",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        238
+      ],
+      "end": [
+        921,
+        238
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0134",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        263
+      ],
+      "end": [
+        920,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0135",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        263
+      ],
+      "end": [
+        921,
+        263
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0136",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        263
+      ],
+      "end": [
+        921,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0137",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        264
+      ],
+      "end": [
+        921,
+        263
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0138",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        920,
+        264
+      ],
+      "end": [
+        921,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0139",
+      "label": "ambiguous",
+      "confidence": 0.1771,
+      "width": 4.0,
+      "width_std": 0.764,
+      "length": 32.56,
+      "orientation": 169.88,
+      "linearity": 0.0,
+      "start": [
+        921,
+        236
+      ],
+      "end": [
+        949,
+        231
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ],
+      "pixel_count": 29
+    },
+    {
+      "id": "BR-0140",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        949,
+        231
+      ],
+      "end": [
+        950,
+        231
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0141",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.0,
+      "width_std": 0.707,
+      "length": 8.07,
+      "orientation": 50.19,
+      "linearity": 0.67,
+      "start": [
+        950,
+        231
+      ],
+      "end": [
+        955,
+        237
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0142",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 2.428,
+      "length": 13.66,
+      "orientation": 71.57,
+      "linearity": 0.246,
+      "start": [
+        955,
+        237
+      ],
+      "end": [
+        959,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 13
+    },
+    {
+      "id": "BR-0143",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 2.157,
+      "length": 14.07,
+      "orientation": 61.39,
+      "linearity": 0.0,
+      "start": [
+        921,
+        238
+      ],
+      "end": [
+        927,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 13
+    },
+    {
+      "id": "BR-0144",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        921,
+        263
+      ],
+      "end": [
+        921,
+        264
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0145",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 2.424,
+      "length": 14.9,
+      "orientation": 120.26,
+      "linearity": 0.19,
+      "start": [
+        921,
+        263
+      ],
+      "end": [
+        928,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 13
+    },
+    {
+      "id": "BR-0146",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        921,
+        264
+      ],
+      "end": [
+        922,
+        265
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0147",
+      "label": "ambiguous",
+      "confidence": 0.2083,
+      "width": 4.0,
+      "width_std": 0.64,
+      "length": 23.31,
+      "orientation": 16.7,
+      "linearity": 0.098,
+      "start": [
+        922,
+        265
+      ],
+      "end": [
+        942,
+        271
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ],
+      "pixel_count": 21
+    },
+    {
+      "id": "BR-0148",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.822,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        942,
+        271
+      ],
+      "end": [
+        944,
+        271
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0149",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.0,
+      "width_std": 0.566,
+      "length": 2.41,
+      "orientation": 153.43,
+      "linearity": 0.647,
+      "start": [
+        944,
+        271
+      ],
+      "end": [
+        946,
+        270
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0150",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        946,
+        270
+      ],
+      "end": [
+        947,
+        270
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0151",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        947,
+        270
+      ],
+      "end": [
+        948,
+        269
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0152",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.52,
+      "length": 3.41,
+      "orientation": 161.57,
+      "linearity": 0.771,
+      "start": [
+        948,
+        269
+      ],
+      "end": [
+        951,
+        268
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 4
+    },
+    {
+      "id": "BR-0153",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.0,
+      "width_std": 0.707,
+      "length": 8.07,
+      "orientation": 129.81,
+      "linearity": 0.67,
+      "start": [
+        951,
+        268
+      ],
+      "end": [
+        956,
+        262
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0154",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 2.446,
+      "length": 12.24,
+      "orientation": 105.26,
+      "linearity": 0.333,
+      "start": [
+        956,
+        262
+      ],
+      "end": [
+        959,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 12
+    },
+    {
+      "id": "BR-0155",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.188,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        926,
+        250
+      ],
+      "end": [
+        927,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0156",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        926,
+        250
+      ],
+      "end": [
+        927,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0157",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        927,
+        249
+      ],
+      "end": [
+        927,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0158",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.984,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        927,
+        249
+      ],
+      "end": [
+        928,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0159",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.984,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        927,
+        250
+      ],
+      "end": [
+        928,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0160",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        927,
+        250
+      ],
+      "end": [
+        928,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0161",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.384,
+      "width_std": 0.797,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        928,
+        250
+      ],
+      "end": [
+        928,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0162",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.984,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        928,
+        250
+      ],
+      "end": [
+        929,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0163",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.188,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        928,
+        251
+      ],
+      "end": [
+        929,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0164",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.0,
+      "width_std": 0.168,
+      "length": 29.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        929,
+        250
+      ],
+      "end": [
+        958,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 30
+    },
+    {
+      "id": "BR-0165",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        958,
+        250
+      ],
+      "end": [
+        959,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0166",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.591,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        958,
+        250
+      ],
+      "end": [
+        959,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0167",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        958,
+        250
+      ],
+      "end": [
+        959,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0168",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        959,
+        249
+      ],
+      "end": [
+        959,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0169",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        959,
+        249
+      ],
+      "end": [
+        960,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0170",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.788,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        959,
+        250
+      ],
+      "end": [
+        959,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0171",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.591,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        959,
+        250
+      ],
+      "end": [
+        960,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0172",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 11.591,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        959,
+        251
+      ],
+      "end": [
+        960,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0173",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 12.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        960,
+        250
+      ],
+      "end": [
+        961,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0175",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 5.197,
+      "width_std": 0.803,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        1042,
+        560
+      ],
+      "end": [
+        1043,
+        559
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0176",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 6.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1042,
+        560
+      ],
+      "end": [
+        1043,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0177",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 5.394,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1043,
+        559
+      ],
+      "end": [
+        1043,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0178",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        1043,
+        559
+      ],
+      "end": [
+        1044,
+        558
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0179",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.824,
+      "length": 9.41,
+      "orientation": 96.34,
+      "linearity": 0.788,
+      "start": [
+        1044,
+        558
+      ],
+      "end": [
+        1045,
+        549
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 10
+    },
+    {
+      "id": "BR-0180",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        1045,
+        549
+      ],
+      "end": [
+        1046,
+        548
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0181",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.695,
+      "length": 104.98,
+      "orientation": 8.93,
+      "linearity": 0.0,
+      "start": [
+        1046,
+        548
+      ],
+      "end": [
+        1116,
+        559
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 89
+    },
+    {
+      "id": "BR-0182",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 5.197,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1043,
+        560
+      ],
+      "end": [
+        1044,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0183",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.48,
+      "length": 4.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1044,
+        561
+      ],
+      "end": [
+        1044,
+        565
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0184",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.8,
+      "width_std": 0.822,
+      "length": 2.41,
+      "orientation": 63.43,
+      "linearity": 0.647,
+      "start": [
+        1044,
+        565
+      ],
+      "end": [
+        1045,
+        567
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0185",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 2.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1045,
+        567
+      ],
+      "end": [
+        1045,
+        569
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0186",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.4,
+      "width_std": 0.849,
+      "length": 3.41,
+      "orientation": 71.57,
+      "linearity": 0.542,
+      "start": [
+        1045,
+        569
+      ],
+      "end": [
+        1046,
+        572
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 4
+    },
+    {
+      "id": "BR-0187",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1046,
+        572
+      ],
+      "end": [
+        1046,
+        573
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0188",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1046,
+        573
+      ],
+      "end": [
+        1047,
+        574
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0189",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1047,
+        574
+      ],
+      "end": [
+        1047,
+        575
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0190",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 3.83,
+      "orientation": 56.31,
+      "linearity": 0.613,
+      "start": [
+        1047,
+        575
+      ],
+      "end": [
+        1049,
+        578
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 4
+    },
+    {
+      "id": "BR-0191",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1049,
+        578
+      ],
+      "end": [
+        1049,
+        579
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0192",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.8,
+      "width_std": 0.52,
+      "length": 4.24,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1049,
+        579
+      ],
+      "end": [
+        1052,
+        582
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 4
+    },
+    {
+      "id": "BR-0193",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1052,
+        582
+      ],
+      "end": [
+        1052,
+        583
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0194",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.8,
+      "width_std": 0.332,
+      "length": 14.31,
+      "orientation": 36.03,
+      "linearity": 0.581,
+      "start": [
+        1052,
+        583
+      ],
+      "end": [
+        1063,
+        591
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 12
+    },
+    {
+      "id": "BR-0195",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1063,
+        591
+      ],
+      "end": [
+        1064,
+        592
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0196",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.8,
+      "width_std": 0.714,
+      "length": 3.41,
+      "orientation": 18.43,
+      "linearity": 0.542,
+      "start": [
+        1064,
+        592
+      ],
+      "end": [
+        1067,
+        593
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 4
+    },
+    {
+      "id": "BR-0197",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 3.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1067,
+        593
+      ],
+      "end": [
+        1068,
+        594
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0198",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.8,
+      "width_std": 0.822,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1068,
+        594
+      ],
+      "end": [
+        1070,
+        594
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0199",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 3.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1070,
+        594
+      ],
+      "end": [
+        1071,
+        595
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0200",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1071,
+        595
+      ],
+      "end": [
+        1072,
+        595
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0201",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.703,
+      "length": 67.11,
+      "orientation": 142.31,
+      "linearity": 0.0,
+      "start": [
+        1072,
+        595
+      ],
+      "end": [
+        1116,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 59
+    },
+    {
+      "id": "BR-0202",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1116,
+        559
+      ],
+      "end": [
+        1116,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0203",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.197,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1116,
+        559
+      ],
+      "end": [
+        1117,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0204",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.197,
+      "width_std": 0.197,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1116,
+        560
+      ],
+      "end": [
+        1116,
+        561
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0205",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.394,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1116,
+        560
+      ],
+      "end": [
+        1117,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0206",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 5.197,
+      "width_std": 1.197,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        1116,
+        561
+      ],
+      "end": [
+        1117,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0207",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 6.0,
+      "width_std": 0.186,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1117,
+        560
+      ],
+      "end": [
+        1119,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0209",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1179,
+        250
+      ],
+      "end": [
+        1180,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0210",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 13.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        1179,
+        250
+      ],
+      "end": [
+        1180,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0211",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 13.0,
+      "width_std": 1.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1180,
+        250
+      ],
+      "end": [
+        1180,
+        251
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0212",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1180,
+        250
+      ],
+      "end": [
+        1181,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0214",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 13.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        1180,
+        251
+      ],
+      "end": [
+        1181,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0216",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.41,
+      "orientation": 11.31,
+      "linearity": 0.513,
+      "start": [
+        43,
+        859
+      ],
+      "end": [
+        48,
+        860
+      ],
+      "component_id": "CC-0003",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0217",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 116.57,
+      "linearity": 0.418,
+      "start": [
+        48,
+        860
+      ],
+      "end": [
+        50,
+        856
+      ],
+      "component_id": "CC-0003",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0218",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.66,
+      "orientation": 29.74,
+      "linearity": 0.622,
+      "start": [
+        50,
+        856
+      ],
+      "end": [
+        43,
+        852
+      ],
+      "component_id": "CC-0003",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0219",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 90.0,
+      "linearity": 0.324,
+      "start": [
+        43,
+        852
+      ],
+      "end": [
+        43,
+        848
+      ],
+      "component_id": "CC-0003",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0220",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.83,
+      "orientation": 0.0,
+      "linearity": 0.419,
+      "start": [
+        43,
+        848
+      ],
+      "end": [
+        49,
+        848
+      ],
+      "component_id": "CC-0003",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0221",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.298,
+      "length": 5.83,
+      "orientation": 111.8,
+      "linearity": 0.323,
+      "start": [
+        54,
+        852
+      ],
+      "end": [
+        56,
+        847
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0222",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        56,
+        847
+      ],
+      "end": [
+        61,
+        847
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0223",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        54,
+        852
+      ],
+      "end": [
+        54,
+        853
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0224",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        54,
+        852
+      ],
+      "end": [
+        55,
+        853
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0225",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        54,
+        853
+      ],
+      "end": [
+        54,
+        854
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0226",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        54,
+        853
+      ],
+      "end": [
+        55,
+        853
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0227",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        54,
+        854
+      ],
+      "end": [
+        54,
+        858
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0228",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 7.83,
+      "orientation": 15.95,
+      "linearity": 0.267,
+      "start": [
+        54,
+        858
+      ],
+      "end": [
+        61,
+        860
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0229",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        54,
+        854
+      ],
+      "end": [
+        55,
+        853
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0230",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.346,
+      "length": 3.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        55,
+        853
+      ],
+      "end": [
+        58,
+        853
+      ],
+      "component_id": "CC-0004",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 4
+    },
+    {
+      "id": "BR-0231",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        852
+      ],
+      "end": [
+        66,
+        848
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0232",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.41,
+      "orientation": 170.54,
+      "linearity": 0.525,
+      "start": [
+        66,
+        848
+      ],
+      "end": [
+        72,
+        847
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0233",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        852
+      ],
+      "end": [
+        66,
+        853
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0234",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        852
+      ],
+      "end": [
+        67,
+        853
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0235",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        853
+      ],
+      "end": [
+        66,
+        854
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0236",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        853
+      ],
+      "end": [
+        67,
+        853
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0237",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        854
+      ],
+      "end": [
+        66,
+        859
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0238",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.41,
+      "orientation": 9.46,
+      "linearity": 0.525,
+      "start": [
+        66,
+        859
+      ],
+      "end": [
+        72,
+        860
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0239",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        66,
+        854
+      ],
+      "end": [
+        67,
+        853
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0240",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        67,
+        853
+      ],
+      "end": [
+        69,
+        853
+      ],
+      "component_id": "CC-0005",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0241",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        848
+      ],
+      "end": [
+        87,
+        849
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0242",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        849
+      ],
+      "end": [
+        87,
+        850
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0243",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        849
+      ],
+      "end": [
+        88,
+        850
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0244",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        850
+      ],
+      "end": [
+        87,
+        851
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0245",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        850
+      ],
+      "end": [
+        88,
+        850
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0246",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        851
+      ],
+      "end": [
+        87,
+        859
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 9
+    },
+    {
+      "id": "BR-0247",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        87,
+        851
+      ],
+      "end": [
+        88,
+        850
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0248",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.28,
+      "length": 8.07,
+      "orientation": 50.19,
+      "linearity": 0.802,
+      "start": [
+        88,
+        850
+      ],
+      "end": [
+        93,
+        856
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0249",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        93,
+        856
+      ],
+      "end": [
+        94,
+        856
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0250",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        93,
+        856
+      ],
+      "end": [
+        94,
+        857
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0251",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        94,
+        856
+      ],
+      "end": [
+        94,
+        857
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0252",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 7.41,
+      "orientation": 98.13,
+      "linearity": 0.541,
+      "start": [
+        94,
+        856
+      ],
+      "end": [
+        95,
+        849
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0253",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.377,
+      "length": 2.41,
+      "orientation": 63.43,
+      "linearity": 0.647,
+      "start": [
+        94,
+        857
+      ],
+      "end": [
+        95,
+        859
+      ],
+      "component_id": "CC-0006",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0254",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.66,
+      "orientation": 60.26,
+      "linearity": 0.433,
+      "start": [
+        99,
+        853
+      ],
+      "end": [
+        103,
+        860
+      ],
+      "component_id": "CC-0007",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0255",
+      "label": "text",
+      "confidence": 1.0,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 19.9,
+      "orientation": 94.4,
+      "linearity": 0.0,
+      "start": [
+        103,
+        860
+      ],
+      "end": [
+        104,
+        847
+      ],
+      "component_id": "CC-0007",
+      "inside_instrument": null,
+      "reasons": [
+        "text_component"
+      ],
+      "pixel_count": 18
+    },
+    {
+      "id": "BR-0256",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.66,
+      "orientation": 129.81,
+      "linearity": 0.405,
+      "start": [
+        104,
+        847
+      ],
+      "end": [
+        99,
+        853
+      ],
+      "component_id": "CC-0007",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0257",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.41,
+      "orientation": 153.43,
+      "linearity": 0.0,
+      "start": [
+        113,
+        526
+      ],
+      "end": [
+        119,
+        523
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 9
+    },
+    {
+      "id": "BR-0258",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        113,
+        526
+      ],
+      "end": [
+        113,
+        527
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0259",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        113,
+        526
+      ],
+      "end": [
+        114,
+        527
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0260",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        113,
+        527
+      ],
+      "end": [
+        113,
+        528
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0261",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        113,
+        527
+      ],
+      "end": [
+        114,
+        527
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0262",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.7,
+      "length": 7.24,
+      "orientation": 80.54,
+      "linearity": 0.145,
+      "start": [
+        113,
+        528
+      ],
+      "end": [
+        114,
+        534
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0263",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 0.0,
+      "linearity": 0.324,
+      "start": [
+        114,
+        534
+      ],
+      "end": [
+        118,
+        534
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0264",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 116.57,
+      "linearity": 0.418,
+      "start": [
+        118,
+        534
+      ],
+      "end": [
+        120,
+        530
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0265",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 7.24,
+      "orientation": 26.57,
+      "linearity": 0.257,
+      "start": [
+        120,
+        530
+      ],
+      "end": [
+        114,
+        527
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0266",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        113,
+        528
+      ],
+      "end": [
+        114,
+        527
+      ],
+      "component_id": "CC-0008",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0267",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        113,
+        847
+      ],
+      "end": [
+        114,
+        847
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0268",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        114,
+        847
+      ],
+      "end": [
+        115,
+        847
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0269",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        114,
+        847
+      ],
+      "end": [
+        115,
+        848
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0270",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        115,
+        847
+      ],
+      "end": [
+        115,
+        848
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0271",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        115,
+        847
+      ],
+      "end": [
+        116,
+        847
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0272",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.23,
+      "length": 10.41,
+      "orientation": 84.29,
+      "linearity": 0.594,
+      "start": [
+        115,
+        848
+      ],
+      "end": [
+        116,
+        858
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 11
+    },
+    {
+      "id": "BR-0273",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        115,
+        848
+      ],
+      "end": [
+        116,
+        847
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0274",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        116,
+        847
+      ],
+      "end": [
+        118,
+        847
+      ],
+      "component_id": "CC-0009",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0275",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        852
+      ],
+      "end": [
+        123,
+        848
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0276",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.41,
+      "orientation": 170.54,
+      "linearity": 0.525,
+      "start": [
+        123,
+        848
+      ],
+      "end": [
+        129,
+        847
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0277",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        852
+      ],
+      "end": [
+        123,
+        853
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0278",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        852
+      ],
+      "end": [
+        124,
+        853
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0279",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        853
+      ],
+      "end": [
+        123,
+        854
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0280",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        853
+      ],
+      "end": [
+        124,
+        853
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0281",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        854
+      ],
+      "end": [
+        123,
+        859
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0282",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.41,
+      "orientation": 9.46,
+      "linearity": 0.525,
+      "start": [
+        123,
+        859
+      ],
+      "end": [
+        129,
+        860
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0283",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        123,
+        854
+      ],
+      "end": [
+        124,
+        853
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0284",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        124,
+        853
+      ],
+      "end": [
+        126,
+        853
+      ],
+      "component_id": "CC-0010",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0285",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 2.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        524
+      ],
+      "end": [
+        134,
+        526
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0286",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        526
+      ],
+      "end": [
+        134,
+        527
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0287",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        526
+      ],
+      "end": [
+        135,
+        527
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0288",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        527
+      ],
+      "end": [
+        134,
+        528
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0289",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        527
+      ],
+      "end": [
+        135,
+        527
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0290",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        528
+      ],
+      "end": [
+        134,
+        533
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0291",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 26.57,
+      "linearity": 0.418,
+      "start": [
+        134,
+        533
+      ],
+      "end": [
+        138,
+        535
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0292",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.24,
+      "orientation": 126.87,
+      "linearity": 0.625,
+      "start": [
+        138,
+        535
+      ],
+      "end": [
+        141,
+        531
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0293",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 63.43,
+      "linearity": 0.418,
+      "start": [
+        141,
+        531
+      ],
+      "end": [
+        139,
+        527
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0294",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.32,
+      "length": 4.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        139,
+        527
+      ],
+      "end": [
+        135,
+        527
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0295",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        134,
+        528
+      ],
+      "end": [
+        135,
+        527
+      ],
+      "component_id": "CC-0011",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0296",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.83,
+      "orientation": 68.2,
+      "linearity": 0.323,
+      "start": [
+        145,
+        529
+      ],
+      "end": [
+        147,
+        534
+      ],
+      "component_id": "CC-0012",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0297",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 0.0,
+      "linearity": 0.324,
+      "start": [
+        147,
+        534
+      ],
+      "end": [
+        151,
+        534
+      ],
+      "component_id": "CC-0012",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0298",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.41,
+      "orientation": 99.46,
+      "linearity": 0.525,
+      "start": [
+        151,
+        534
+      ],
+      "end": [
+        152,
+        528
+      ],
+      "component_id": "CC-0012",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0299",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.24,
+      "orientation": 171.87,
+      "linearity": 0.082,
+      "start": [
+        152,
+        528
+      ],
+      "end": [
+        145,
+        529
+      ],
+      "component_id": "CC-0012",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0300",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.24,
+      "length": 9.41,
+      "orientation": 113.2,
+      "linearity": 0.0,
+      "start": [
+        157,
+        534
+      ],
+      "end": [
+        160,
+        527
+      ],
+      "component_id": "CC-0013",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 10
+    },
+    {
+      "id": "BR-0301",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.267,
+      "length": 21.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        208,
+        370
+      ],
+      "end": [
+        229,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 22
+    },
+    {
+      "id": "BR-0302",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        370
+      ],
+      "end": [
+        230,
+        369
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0303",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.997,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        370
+      ],
+      "end": [
+        230,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0304",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        229,
+        370
+      ],
+      "end": [
+        230,
+        371
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0305",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.084,
+      "length": 20.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        349
+      ],
+      "end": [
+        230,
+        369
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 21
+    },
+    {
+      "id": "BR-0306",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.997,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        369
+      ],
+      "end": [
+        230,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0307",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        369
+      ],
+      "end": [
+        231,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0308",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.997,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        370
+      ],
+      "end": [
+        230,
+        371
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0309",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.997,
+      "width_std": 0.603,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        370
+      ],
+      "end": [
+        231,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0310",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.267,
+      "length": 21.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        371
+      ],
+      "end": [
+        230,
+        392
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 22
+    },
+    {
+      "id": "BR-0311",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.394,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        371
+      ],
+      "end": [
+        231,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0312",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.267,
+      "length": 21.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        231,
+        370
+      ],
+      "end": [
+        252,
+        370
+      ],
+      "component_id": "CC-0014",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 22
+    },
+    {
+      "id": "BR-0313",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 7.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        500,
+        253
+      ],
+      "end": [
+        500,
+        246
+      ],
+      "component_id": "CC-0015",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0314",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 153.43,
+      "linearity": 0.418,
+      "start": [
+        500,
+        246
+      ],
+      "end": [
+        504,
+        244
+      ],
+      "component_id": "CC-0015",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0315",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.377,
+      "length": 2.41,
+      "orientation": 0.0,
+      "linearity": 0.107,
+      "start": [
+        509,
+        245
+      ],
+      "end": [
+        510,
+        245
+      ],
+      "component_id": "CC-0016",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0316",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        509,
+        245
+      ],
+      "end": [
+        509,
+        246
+      ],
+      "component_id": "CC-0016",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0317",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        509,
+        245
+      ],
+      "end": [
+        510,
+        245
+      ],
+      "component_id": "CC-0016",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0318",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.41,
+      "orientation": 80.54,
+      "linearity": 0.525,
+      "start": [
+        509,
+        246
+      ],
+      "end": [
+        510,
+        252
+      ],
+      "component_id": "CC-0016",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0319",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        509,
+        246
+      ],
+      "end": [
+        510,
+        245
+      ],
+      "component_id": "CC-0016",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0320",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.377,
+      "length": 2.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        510,
+        245
+      ],
+      "end": [
+        512,
+        245
+      ],
+      "component_id": "CC-0016",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0321",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        516,
+        250
+      ],
+      "end": [
+        522,
+        250
+      ],
+      "component_id": "CC-0017",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0322",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 7.41,
+      "orientation": 81.87,
+      "linearity": 0.541,
+      "start": [
+        529,
+        246
+      ],
+      "end": [
+        530,
+        253
+      ],
+      "component_id": "CC-0018",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0323",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.83,
+      "orientation": 68.2,
+      "linearity": 0.549,
+      "start": [
+        535,
+        248
+      ],
+      "end": [
+        537,
+        253
+      ],
+      "component_id": "CC-0019",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0324",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.24,
+      "orientation": 165.96,
+      "linearity": 0.026,
+      "start": [
+        537,
+        253
+      ],
+      "end": [
+        541,
+        252
+      ],
+      "component_id": "CC-0019",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0325",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.24,
+      "orientation": 81.87,
+      "linearity": 0.235,
+      "start": [
+        541,
+        252
+      ],
+      "end": [
+        540,
+        245
+      ],
+      "component_id": "CC-0019",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0326",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.83,
+      "orientation": 149.04,
+      "linearity": 0.092,
+      "start": [
+        540,
+        245
+      ],
+      "end": [
+        535,
+        248
+      ],
+      "component_id": "CC-0019",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0327",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 7.41,
+      "orientation": 81.87,
+      "linearity": 0.541,
+      "start": [
+        547,
+        246
+      ],
+      "end": [
+        548,
+        253
+      ],
+      "component_id": "CC-0020",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0328",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 9.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        642,
+        214
+      ],
+      "end": [
+        642,
+        223
+      ],
+      "component_id": "CC-0021",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 10
+    },
+    {
+      "id": "BR-0329",
+      "label": "text",
+      "confidence": 1.0,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 23.73,
+      "orientation": 109.98,
+      "linearity": 0.0,
+      "start": [
+        642,
+        223
+      ],
+      "end": [
+        646,
+        212
+      ],
+      "component_id": "CC-0021",
+      "inside_instrument": null,
+      "reasons": [
+        "text_component"
+      ],
+      "pixel_count": 21
+    },
+    {
+      "id": "BR-0330",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.32,
+      "length": 4.83,
+      "orientation": 153.43,
+      "linearity": 0.418,
+      "start": [
+        646,
+        212
+      ],
+      "end": [
+        642,
+        214
+      ],
+      "component_id": "CC-0021",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0331",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.377,
+      "length": 2.41,
+      "orientation": 0.0,
+      "linearity": 0.107,
+      "start": [
+        655,
+        215
+      ],
+      "end": [
+        656,
+        215
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0332",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        655,
+        215
+      ],
+      "end": [
+        655,
+        216
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0333",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        655,
+        215
+      ],
+      "end": [
+        656,
+        215
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0334",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 8.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        655,
+        216
+      ],
+      "end": [
+        655,
+        224
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 9
+    },
+    {
+      "id": "BR-0335",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        655,
+        216
+      ],
+      "end": [
+        656,
+        215
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0336",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.265,
+      "length": 9.07,
+      "orientation": 45.0,
+      "linearity": 0.65,
+      "start": [
+        656,
+        215
+      ],
+      "end": [
+        662,
+        221
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0337",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 1.41,
+      "orientation": 135.0,
+      "linearity": 1.0,
+      "start": [
+        662,
+        221
+      ],
+      "end": [
+        663,
+        220
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0338",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        662,
+        221
+      ],
+      "end": [
+        663,
+        221
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0339",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.0,
+      "width_std": 1.0,
+      "length": 1.41,
+      "orientation": 45.0,
+      "linearity": 1.0,
+      "start": [
+        662,
+        221
+      ],
+      "end": [
+        663,
+        222
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0340",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        663,
+        215
+      ],
+      "end": [
+        663,
+        220
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 6
+    },
+    {
+      "id": "BR-0341",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.4,
+      "width_std": 0.4,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        663,
+        220
+      ],
+      "end": [
+        663,
+        221
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0342",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 3.4,
+      "width_std": 0.6,
+      "length": 1.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        663,
+        221
+      ],
+      "end": [
+        663,
+        222
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 2
+    },
+    {
+      "id": "BR-0343",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 4.0,
+      "width_std": 0.566,
+      "length": 2.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        663,
+        222
+      ],
+      "end": [
+        663,
+        224
+      ],
+      "component_id": "CC-0022",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 3
+    },
+    {
+      "id": "BR-0344",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.598,
+      "length": 10.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        672,
+        213
+      ],
+      "end": [
+        672,
+        223
+      ],
+      "component_id": "CC-0023",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 11
+    },
+    {
+      "id": "BR-0345",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.41,
+      "orientation": 14.04,
+      "linearity": 0.513,
+      "start": [
+        681,
+        224
+      ],
+      "end": [
+        685,
+        225
+      ],
+      "component_id": "CC-0024",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0346",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 5.24,
+      "orientation": 126.87,
+      "linearity": 0.625,
+      "start": [
+        685,
+        225
+      ],
+      "end": [
+        688,
+        221
+      ],
+      "component_id": "CC-0024",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0347",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.24,
+      "length": 10.24,
+      "orientation": 35.54,
+      "linearity": 0.0,
+      "start": [
+        688,
+        221
+      ],
+      "end": [
+        681,
+        216
+      ],
+      "component_id": "CC-0024",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 10
+    },
+    {
+      "id": "BR-0348",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.265,
+      "length": 8.24,
+      "orientation": 135.0,
+      "linearity": 0.0,
+      "start": [
+        681,
+        216
+      ],
+      "end": [
+        685,
+        212
+      ],
+      "component_id": "CC-0024",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 8
+    },
+    {
+      "id": "BR-0349",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 9.83,
+      "orientation": 77.47,
+      "linearity": 0.279,
+      "start": [
+        692,
+        215
+      ],
+      "end": [
+        694,
+        224
+      ],
+      "component_id": "CC-0025",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 10
+    },
+    {
+      "id": "BR-0350",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 4.83,
+      "orientation": 0.0,
+      "linearity": 0.324,
+      "start": [
+        694,
+        224
+      ],
+      "end": [
+        698,
+        224
+      ],
+      "component_id": "CC-0025",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 5
+    },
+    {
+      "id": "BR-0351",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 12.66,
+      "orientation": 90.0,
+      "linearity": 0.138,
+      "start": [
+        698,
+        224
+      ],
+      "end": [
+        698,
+        213
+      ],
+      "component_id": "CC-0025",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 12
+    },
+    {
+      "id": "BR-0352",
+      "label": "noise",
+      "confidence": 0.2,
+      "width": 2.0,
+      "width_std": 0.0,
+      "length": 6.83,
+      "orientation": 161.57,
+      "linearity": 0.281,
+      "start": [
+        698,
+        213
+      ],
+      "end": [
+        692,
+        215
+      ],
+      "component_id": "CC-0025",
+      "inside_instrument": null,
+      "reasons": [
+        "short_spur"
+      ],
+      "pixel_count": 7
+    },
+    {
+      "id": "BR-0353",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 4.0,
+      "width_std": 0.67,
+      "length": 184.75,
+      "orientation": 0.0,
+      "linearity": 0.0,
+      "start": [
+        1152,
+        424
+      ],
+      "end": [
+        1152,
+        424
+      ],
+      "component_id": "CC-0026",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 158
+    },
+    {
+      "id": "BR-0354",
+      "label": "instrument_stroke",
+      "confidence": 0.7,
+      "width": 2.8,
+      "width_std": 0.709,
+      "length": 171.1,
+      "orientation": 0.0,
+      "linearity": 0.0,
+      "start": [
+        1214,
+        115
+      ],
+      "end": [
+        1214,
+        115
+      ],
+      "component_id": "CC-0027",
+      "inside_instrument": "instrument",
+      "reasons": [
+        "inside_instrument_mask"
+      ],
+      "pixel_count": 146
+    },
+    {
+      "id": "BR-0002",
+      "label": "thick_pipe",
+      "confidence": 0.9575,
+      "width": 12.0,
+      "width_std": 0.148,
+      "length": 189.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        40,
+        250
+      ],
+      "end": [
+        229,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 190
+    },
+    {
+      "id": "BR-0003",
+      "label": "thin_pipe",
+      "confidence": 0.9899,
+      "width": 6.0,
+      "width_std": 0.029,
+      "length": 188.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        41,
+        560
+      ],
+      "end": [
+        229,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 189
+    },
+    {
+      "id": "BR-0018",
+      "label": "thick_pipe",
+      "confidence": 0.825,
+      "width": 12.0,
+      "width_std": 0.383,
+      "length": 76.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        251
+      ],
+      "end": [
+        230,
+        327
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 77
+    },
+    {
+      "id": "BR-0027",
+      "label": "thin_pipe",
+      "confidence": 0.9412,
+      "width": 6.0,
+      "width_std": 0.103,
+      "length": 147.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        230,
+        412
+      ],
+      "end": [
+        230,
+        559
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 148
+    },
+    {
+      "id": "BR-0032",
+      "label": "thick_pipe",
+      "confidence": 0.9613,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 244.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        231,
+        250
+      ],
+      "end": [
+        475,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 245
+    },
+    {
+      "id": "BR-0033",
+      "label": "thin_pipe",
+      "confidence": 0.994,
+      "width": 6.0,
+      "width_std": 0.0,
+      "length": 198.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        231,
+        560
+      ],
+      "end": [
+        429,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 199
+    },
+    {
+      "id": "BR-0049",
+      "label": "thin_pipe",
+      "confidence": 0.9926,
+      "width": 6.0,
+      "width_std": 0.069,
+      "length": 328.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        431,
+        560
+      ],
+      "end": [
+        759,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 329
+    },
+    {
+      "id": "BR-0060",
+      "label": "thick_pipe",
+      "confidence": 0.9607,
+      "width": 12.0,
+      "width_std": 0.063,
+      "length": 193.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        566,
+        250
+      ],
+      "end": [
+        759,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 194
+    },
+    {
+      "id": "BR-0070",
+      "label": "thin_pipe",
+      "confidence": 0.9838,
+      "width": 6.0,
+      "width_std": 0.508,
+      "length": 207.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        42
+      ],
+      "end": [
+        760,
+        249
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 208
+    },
+    {
+      "id": "BR-0075",
+      "label": "thin_pipe",
+      "confidence": 0.9855,
+      "width": 6.0,
+      "width_std": 0.423,
+      "length": 308.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        251
+      ],
+      "end": [
+        760,
+        559
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 309
+    },
+    {
+      "id": "BR-0089",
+      "label": "thick_pipe",
+      "confidence": 0.8676,
+      "width": 12.0,
+      "width_std": 0.159,
+      "length": 111.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        761,
+        250
+      ],
+      "end": [
+        872,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 112
+    },
+    {
+      "id": "BR-0090",
+      "label": "thin_pipe",
+      "confidence": 0.9925,
+      "width": 6.0,
+      "width_std": 0.075,
+      "length": 281.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        761,
+        560
+      ],
+      "end": [
+        1042,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 282
+    },
+    {
+      "id": "BR-0174",
+      "label": "thick_pipe",
+      "confidence": 0.9613,
+      "width": 12.0,
+      "width_std": 0.0,
+      "length": 218.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        961,
+        250
+      ],
+      "end": [
+        1179,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 219
+    },
+    {
+      "id": "BR-0208",
+      "label": "thin_pipe",
+      "confidence": 0.9934,
+      "width": 6.0,
+      "width_std": 0.028,
+      "length": 200.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1119,
+        560
+      ],
+      "end": [
+        1319,
+        560
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 201
+    },
+    {
+      "id": "BR-0213",
+      "label": "thick_pipe",
+      "confidence": 0.8396,
+      "width": 12.0,
+      "width_std": 0.421,
+      "length": 89.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        1180,
+        251
+      ],
+      "end": [
+        1180,
+        340
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 90
+    },
+    {
+      "id": "BR-0215",
+      "label": "thick_pipe",
+      "confidence": 0.8997,
+      "width": 12.0,
+      "width_std": 0.172,
+      "length": 139.0,
+      "orientation": 0.0,
+      "linearity": 1.0,
+      "start": [
+        1181,
+        250
+      ],
+      "end": [
+        1320,
+        250
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ],
+      "pixel_count": 140
+    },
+    {
+      "id": "BR-0041",
+      "label": "thin_pipe",
+      "confidence": 0.9279,
+      "width": 6.0,
+      "width_std": 0.21,
+      "length": 238.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        430,
+        561
+      ],
+      "end": [
+        430,
+        799
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ],
+      "pixel_count": 237
+    },
+    {
+      "id": "BR-0081",
+      "label": "thin_pipe",
+      "confidence": 0.9516,
+      "width": 6.0,
+      "width_std": 0.188,
+      "length": 298.0,
+      "orientation": 90.0,
+      "linearity": 1.0,
+      "start": [
+        760,
+        561
+      ],
+      "end": [
+        760,
+        859
+      ],
+      "component_id": "CC-0002",
+      "inside_instrument": null,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ],
+      "pixel_count": 297
+    }
+  ]
+}

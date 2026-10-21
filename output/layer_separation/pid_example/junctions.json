@@ -1,0 +1,3484 @@
+{
+  "endpoints": [
+    {
+      "xy": [
+        7.0,
+        582.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0009"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0001",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        7.0,
+        613.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0011"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0002",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        125.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0066"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0003",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        95.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0072"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0004",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        95.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0076"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0005",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        149.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0076"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0006",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        107.0,
+        37.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0091"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0007",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        151.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0171"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0008",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        254.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0171"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0009",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        151.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0174"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0010",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        254.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0174"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0011",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        151.0,
+        79.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0178"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0012",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        254.0,
+        79.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0178"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0013",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        184.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0200"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0014",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        253.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0200"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0015",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        279.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0282"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0016",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        329.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0282"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0017",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        302.0,
+        59.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0318"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0018",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        333.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0318"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0019",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        336.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0390"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0020",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        351.0,
+        59.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0402"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0021",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        438.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0402"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0022",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        384.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0416"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0023",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        439.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0416"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0024",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        480.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0507"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0025",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        480.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0509"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0026",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        534.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0509"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        172.87
+      ],
+      "id": "E-0027",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        490.0,
+        37.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0516"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0028",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        535.0,
+        79.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0591"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0029",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        639.0,
+        80.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0591"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0030",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        536.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0596"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0031",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        639.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0596"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0032",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        554.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0606"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0033",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        639.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0606"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0034",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        677.0,
+        786.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0621"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0035",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        665.0,
+        12.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0725"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0036",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        719.0,
+        12.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0725"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        187.13
+      ],
+      "id": "E-0037",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        665.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0731"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0038",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        718.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0731"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0039",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        665.0,
+        61.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0733"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0040",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        718.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0733"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        172.87
+      ],
+      "id": "E-0041",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        732.0,
+        787.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0822"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0042",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        739.0,
+        61.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0839"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0043",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        823.0,
+        61.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0839"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0044",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        770.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0851"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0045",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        823.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0851"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0046",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        937.0,
+        729.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0909"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0047",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        986.0,
+        774.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0958"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        345.96
+      ],
+      "id": "E-0048",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1109.0,
+        772.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0958"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0049",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        45.0,
+        714.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1121"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0050",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        136.0,
+        757.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1122"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        172.87
+      ],
+      "id": "E-0051",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        33.0,
+        538.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1341"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        262.87
+      ],
+      "id": "E-0052",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        34.0,
+        409.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1341"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        97.13
+      ],
+      "id": "E-0053",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        34.0,
+        367.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1348"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0054",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        82.0,
+        232.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1349"
+      ],
+      "width_ratio": 0.7,
+      "angles": [
+        172.87
+      ],
+      "id": "E-0055",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        53.0,
+        368.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1509"
+      ],
+      "width_ratio": 1.2,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0056",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        125.0,
+        368.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1509"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0057",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        80.0,
+        409.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1623"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0058",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        119.0,
+        231.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1968"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        14.04
+      ],
+      "id": "E-0059",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        248.0,
+        234.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1968"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        187.13
+      ],
+      "id": "E-0060",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        122.0,
+        451.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1990"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0061",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        123.0,
+        416.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1990"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        97.13
+      ],
+      "id": "E-0062",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        125.0,
+        537.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2025"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0063",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        126.0,
+        457.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2025"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0064",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        125.0,
+        589.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2035"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0065",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        202.0,
+        587.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2035"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        165.96
+      ],
+      "id": "E-0066",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        127.0,
+        440.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2050"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        262.87
+      ],
+      "id": "E-0067",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        148.0,
+        332.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2188"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0068",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        185.0,
+        331.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2188"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0069",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        487.0,
+        194.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2255"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0070",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        190.0,
+        409.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2494"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0071",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        244.0,
+        446.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2495"
+      ],
+      "width_ratio": 1.2,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0072",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        193.0,
+        330.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2522"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0073",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        276.0,
+        435.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2523"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        262.87
+      ],
+      "id": "E-0074",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        508.0,
+        237.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2548"
+      ],
+      "width_ratio": 0.6,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0075",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        228.0,
+        538.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2733"
+      ],
+      "width_ratio": 1.7,
+      "angles": [
+        284.04
+      ],
+      "id": "E-0076",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        231.0,
+        448.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2733"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0077",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        252.0,
+        728.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2980"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0078",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        264.0,
+        587.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3052"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0079",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        265.0,
+        554.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3052"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0080",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        289.0,
+        232.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3207"
+      ],
+      "width_ratio": 1.2,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0081",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        470.0,
+        234.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3207"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0082",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        343.0,
+        637.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3300"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0083",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        346.0,
+        552.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3300"
+      ],
+      "width_ratio": 1.7,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0084",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        343.0,
+        668.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3312"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        75.96
+      ],
+      "id": "E-0085",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        398.0,
+        728.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3322"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        172.87
+      ],
+      "id": "E-0086",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        377.0,
+        418.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3555"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0087",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        456.0,
+        419.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3555"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        187.13
+      ],
+      "id": "E-0088",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        394.0,
+        450.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3690"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0089",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        456.0,
+        441.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4152"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0090",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        456.0,
+        484.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4152"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0091",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        465.0,
+        350.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4190"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0092",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        467.0,
+        262.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4190"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0093",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        479.0,
+        668.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4337"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        75.96
+      ],
+      "id": "E-0094",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        481.0,
+        727.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4337"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        262.87
+      ],
+      "id": "E-0095",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        482.0,
+        527.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4376"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0096",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        483.0,
+        485.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4376"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0097",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        486.0,
+        355.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4455"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0098",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        539.0,
+        355.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4455"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0099",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        535.0,
+        637.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4710"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0100",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        540.0,
+        391.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4710"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0101",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        536.0,
+        668.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4737"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0102",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        543.0,
+        235.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4810"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0103",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        544.0,
+        158.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4810"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0104",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        570.0,
+        260.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4868"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0105",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        582.0,
+        401.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4930"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0106",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        582.0,
+        450.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-4930"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0107",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        605.0,
+        639.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5083"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0108",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        609.0,
+        507.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5083"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0109",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        671.0,
+        217.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5236"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0110",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        629.0,
+        353.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5283"
+      ],
+      "width_ratio": 2.197,
+      "angles": [
+        290.56
+      ],
+      "id": "E-0111",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        631.0,
+        263.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5283"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0112",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        644.0,
+        638.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5318"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0113",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        648.0,
+        504.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5318"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0114",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        648.0,
+        448.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5379"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0115",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        649.0,
+        395.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5379"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0116",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        656.0,
+        198.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5434"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0117",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        671.0,
+        296.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5528"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0118",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        672.0,
+        254.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5528"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        97.13
+      ],
+      "id": "E-0119",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        687.0,
+        638.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5754"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0120",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        690.0,
+        504.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5754"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0121",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        692.0,
+        298.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5843"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0122",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        692.0,
+        341.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5843"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0123",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        734.0,
+        394.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5880"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0124",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        764.0,
+        706.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6367"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0125",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        837.0,
+        708.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6367"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0126",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        780.0,
+        271.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6441"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0127",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        781.0,
+        393.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6482"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0128",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        782.0,
+        334.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6482"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        97.13
+      ],
+      "id": "E-0129",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        782.0,
+        156.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6505"
+      ],
+      "width_ratio": 0.7,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0130",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        811.0,
+        126.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6653"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0131",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        861.0,
+        126.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6653"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0132",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        867.0,
+        272.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-6874"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        277.13
+      ],
+      "id": "E-0133",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        155.0,
+        93.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-7358"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        14.04
+      ],
+      "id": "E-0134",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        28.0,
+        523.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-7360"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0135",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        29.0,
+        481.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-7360"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        97.13
+      ],
+      "id": "E-0136",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        769.0,
+        588.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-9123"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0137",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        850.0,
+        525.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-9124"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        82.87
+      ],
+      "id": "E-0138",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        95.0,
+        22.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0067"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0139",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        254.0,
+        21.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0067"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0140",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        95.0,
+        31.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0068"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0141",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        254.0,
+        31.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0068"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0142",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        95.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0078"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0143",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        254.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0078"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0144",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        279.0,
+        21.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0283"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0145",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        439.0,
+        22.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0283"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0146",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        279.0,
+        31.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0285"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0147",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        439.0,
+        31.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0285"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0148",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        279.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0289"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0149",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        439.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0289"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0150",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        278.0,
+        69.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0302"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0151",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        438.0,
+        70.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0302"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0152",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        288.0,
+        51.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0308"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0153",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        366.0,
+        50.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0308"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0154",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        480.0,
+        22.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0502"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0155",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        639.0,
+        22.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0502"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0156",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        480.0,
+        31.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0503"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0157",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        639.0,
+        32.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0503"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0158",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        480.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0511"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0159",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        639.0,
+        60.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0511"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0160",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        664.0,
+        70.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0723"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0161",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        823.0,
+        70.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0723"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0162",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        665.0,
+        22.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0726"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0163",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        823.0,
+        22.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0726"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0164",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        665.0,
+        32.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0727"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0165",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        824.0,
+        32.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0727"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0166",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        665.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0729"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0167",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        823.0,
+        41.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0729"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0168",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1120.0,
+        753.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0906"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0169",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1109.0,
+        787.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0907"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0170",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1121.0,
+        729.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0956"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0171",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        122.0,
+        159.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-1989"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0172",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        266.0,
+        540.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3065"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        14.04
+      ],
+      "id": "E-0173",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        302.0,
+        448.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3255"
+      ],
+      "width_ratio": 1.4,
+      "angles": [
+        352.87
+      ],
+      "id": "E-0174",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        375.0,
+        447.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3255"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0175",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        431.0,
+        639.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3968"
+      ],
+      "width_ratio": 1.7,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0176",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        434.0,
+        482.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-3968"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0177",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        691.0,
+        486.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5826"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0178",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        232.0,
+        69.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0203"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        172.87
+      ],
+      "id": "E-0179",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        95.0,
+        70.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0203"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0180",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        640.0,
+        12.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0593"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        187.13
+      ],
+      "id": "E-0181",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        621.0,
+        70.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0614"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0182",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        480.0,
+        70.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0614"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0183",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1128.0,
+        12.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0925"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0184",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        738.0,
+        11.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0925"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0185",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        112.0,
+        139.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-2547"
+      ],
+      "width_ratio": 2.0,
+      "angles": [
+        7.13
+      ],
+      "id": "E-0186",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        688.0,
+        708.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-5360"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0187",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    }
+  ],
+  "junctions": [
+    {
+      "xy": [
+        934.67,
+        786.67
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0822",
+        "BR-0891",
+        "BR-0907"
+      ],
+      "width_ratio": 0.7,
+      "angles": [
+        180.0,
+        270.0,
+        0.0
+      ],
+      "id": "J-0001",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        344.67,
+        727.67
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-2980",
+        "BR-3312",
+        "BR-3322"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        172.87,
+        262.87,
+        7.13
+      ],
+      "id": "J-0002",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        571.33,
+        156.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-4868",
+        "BR-4876",
+        "BR-7359"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        90.0,
+        0.0,
+        270.0
+      ],
+      "id": "J-0003",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        620.0,
+        157.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-4876",
+        "BR-5234",
+        "BR-5246"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0,
+        90.0,
+        0.0
+      ],
+      "id": "J-0004",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        782.33,
+        199.0
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-6441",
+        "BR-6505",
+        "BR-6536"
+      ],
+      "width_ratio": 0.5,
+      "angles": [
+        90.0,
+        277.13,
+        352.87
+      ],
+      "id": "J-0005",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    }
+  ],
+  "visual_crossings": [],
+  "unresolved_crossings": []
+}

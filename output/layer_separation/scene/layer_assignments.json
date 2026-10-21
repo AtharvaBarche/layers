@@ -1,0 +1,571 @@
+{
+  "instruments": [
+    {
+      "id": "I-0001",
+      "layer": "review",
+      "reason": "no_verified_connection",
+      "shape": "circle",
+      "confidence": 1.0,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        1151,
+        401,
+        1210,
+        460
+      ],
+      "center": [
+        1180.5,
+        430.5
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0002",
+      "layer": "review",
+      "reason": "no_verified_connection",
+      "shape": "circle",
+      "confidence": 1.0,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        1213,
+        93,
+        1268,
+        148
+      ],
+      "center": [
+        1240.5,
+        120.5
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0003",
+      "layer": "thick",
+      "reason": "exclusive_thick",
+      "shape": "circle",
+      "confidence": 1.0,
+      "verified_thick": 1,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        477,
+        207,
+        564,
+        294
+      ],
+      "center": [
+        520.2,
+        250.2
+      ],
+      "ocr_ids": [
+        "T-0003"
+      ]
+    },
+    {
+      "id": "I-0004",
+      "layer": "thin",
+      "reason": "exclusive_thin",
+      "shape": "circle",
+      "confidence": 1.0,
+      "verified_thick": 0,
+      "verified_thin": 1,
+      "unverified": 0,
+      "bbox": [
+        1044,
+        522,
+        1117,
+        595
+      ],
+      "center": [
+        1080.6,
+        558.6
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0005",
+      "layer": "thick",
+      "reason": "both_networks",
+      "shape": "rectangle",
+      "confidence": 1.0,
+      "verified_thick": 1,
+      "verified_thin": 1,
+      "unverified": 0,
+      "bbox": [
+        190,
+        328,
+        271,
+        411
+      ],
+      "center": [
+        230.0,
+        369.0
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0006",
+      "layer": "review",
+      "reason": "unverified_connection",
+      "shape": "circle",
+      "confidence": 0.925,
+      "verified_thick": 1,
+      "verified_thin": 0,
+      "unverified": 1,
+      "bbox": [
+        876,
+        227,
+        924,
+        275
+      ],
+      "center": [
+        900.6,
+        251.4
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0007",
+      "layer": "thick",
+      "reason": "exclusive_thick",
+      "shape": "circle",
+      "confidence": 0.9156,
+      "verified_thick": 1,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        919,
+        231,
+        958,
+        270
+      ],
+      "center": [
+        939.0,
+        250.2
+      ],
+      "ocr_ids": []
+    }
+  ],
+  "pipes": [
+    {
+      "id": "BR-0001",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 12.0,
+      "length": 26.0,
+      "confidence": 0.7363,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0004",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 8.0,
+      "length": 229.0,
+      "confidence": 0.758,
+      "reasons": [
+        "width:ambiguous"
+      ]
+    },
+    {
+      "id": "BR-0050",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 8.0,
+      "length": 328.0,
+      "confidence": 0.759,
+      "reasons": [
+        "width:ambiguous"
+      ]
+    },
+    {
+      "id": "BR-0091",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 8.0,
+      "length": 340.41,
+      "confidence": 0.7489,
+      "reasons": [
+        "width:ambiguous"
+      ]
+    },
+    {
+      "id": "BR-0095",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.394,
+      "length": 43.77,
+      "confidence": 0.267,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0104",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.394,
+      "length": 25.21,
+      "confidence": 0.1962,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0139",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 32.56,
+      "confidence": 0.1771,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0147",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 23.31,
+      "confidence": 0.2083,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0002",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 189.0,
+      "confidence": 0.9575,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0003",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 188.0,
+      "confidence": 0.9899,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0018",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 76.0,
+      "confidence": 0.825,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0027",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 147.0,
+      "confidence": 0.9412,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0032",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 244.0,
+      "confidence": 0.9613,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0033",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 198.0,
+      "confidence": 0.994,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0049",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 328.0,
+      "confidence": 0.9926,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0060",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 193.0,
+      "confidence": 0.9607,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0070",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 207.0,
+      "confidence": 0.9838,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0075",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 308.0,
+      "confidence": 0.9855,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0089",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 111.0,
+      "confidence": 0.8676,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0090",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 281.0,
+      "confidence": 0.9925,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0174",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 218.0,
+      "confidence": 0.9613,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0208",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 200.0,
+      "confidence": 0.9934,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0213",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 89.0,
+      "confidence": 0.8396,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0215",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 12.0,
+      "length": 139.0,
+      "confidence": 0.8997,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0041",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 238.0,
+      "confidence": 0.9279,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0081",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 6.0,
+      "length": 298.0,
+      "confidence": 0.9516,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    }
+  ],
+  "text": [
+    {
+      "id": "T-0001",
+      "text": "DN150",
+      "bbox": [
+        630,
+        190,
+        760,
+        258
+      ],
+      "confidence": 0.95,
+      "kind": "DIAMETER",
+      "angle": 0.0,
+      "source": "injected",
+      "pipe_id": "BR-0060",
+      "instrument_id": null,
+      "association_status": "assigned",
+      "association_confidence": 0.902,
+      "association_reason": "geometry_and_kind"
+    },
+    {
+      "id": "T-0002",
+      "text": "6 bar",
+      "bbox": [
+        90,
+        500,
+        220,
+        548
+      ],
+      "confidence": 0.95,
+      "kind": "PRESSURE",
+      "angle": 0.0,
+      "source": "injected",
+      "pipe_id": "BR-0003",
+      "instrument_id": null,
+      "association_status": "assigned",
+      "association_confidence": 0.8643,
+      "association_reason": "geometry_and_kind"
+    },
+    {
+      "id": "T-0003",
+      "text": "FT-101",
+      "bbox": [
+        495,
+        235,
+        548,
+        268
+      ],
+      "confidence": 0.95,
+      "kind": "TAG",
+      "angle": 0.0,
+      "source": "injected",
+      "pipe_id": null,
+      "instrument_id": "I-0003",
+      "association_status": "instrument_tag",
+      "association_confidence": 0.95,
+      "association_reason": "tag_inside_instrument"
+    },
+    {
+      "id": "T-0004",
+      "text": "SEE NOTE",
+      "bbox": [
+        30,
+        830,
+        190,
+        875
+      ],
+      "confidence": 0.95,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "injected",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.0,
+      "association_reason": "no_pipe_in_range"
+    }
+  ],
+  "rules": {
+    "exclusive_thick": "thick",
+    "exclusive_thin": "thin",
+    "both_networks": "thick",
+    "unverified_or_ambiguous": "review"
+  }
+}

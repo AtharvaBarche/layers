@@ -1,0 +1,1255 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "I-0003",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          34.2,
+          597.0
+        ]
+      },
+      {
+        "id": "I-0004",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          267.0,
+          205.8
+        ]
+      },
+      {
+        "id": "I-0005",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          387.0,
+          306.6
+        ]
+      },
+      {
+        "id": "I-0008",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          228.6,
+          606.6
+        ]
+      },
+      {
+        "id": "BR-0009",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6414
+      },
+      {
+        "id": "BR-0011",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.939
+      },
+      {
+        "id": "BR-0017",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7795
+      },
+      {
+        "id": "BR-0066",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8125
+      },
+      {
+        "id": "BR-0072",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7378
+      },
+      {
+        "id": "BR-0076",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7812
+      },
+      {
+        "id": "BR-0091",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7723
+      },
+      {
+        "id": "BR-0171",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9464
+      },
+      {
+        "id": "BR-0174",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8949
+      },
+      {
+        "id": "BR-0178",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8949
+      },
+      {
+        "id": "BR-0200",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8391
+      },
+      {
+        "id": "BR-0282",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8492
+      },
+      {
+        "id": "BR-0318",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6989
+      },
+      {
+        "id": "BR-0390",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9051
+      },
+      {
+        "id": "BR-0402",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.836
+      },
+      {
+        "id": "BR-0416",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8135
+      },
+      {
+        "id": "BR-0507",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7824
+      },
+      {
+        "id": "BR-0509",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7669
+      },
+      {
+        "id": "BR-0516",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7558
+      },
+      {
+        "id": "BR-0591",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.859
+      },
+      {
+        "id": "BR-0596",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8949
+      },
+      {
+        "id": "BR-0606",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8633
+      },
+      {
+        "id": "BR-0621",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9188
+      },
+      {
+        "id": "BR-0725",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7199
+      },
+      {
+        "id": "BR-0731",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7642
+      },
+      {
+        "id": "BR-0733",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7646
+      },
+      {
+        "id": "BR-0822",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8789
+      },
+      {
+        "id": "BR-0839",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8306
+      },
+      {
+        "id": "BR-0851",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7972
+      },
+      {
+        "id": "BR-0891",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.816
+      },
+      {
+        "id": "BR-0896",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9479
+      },
+      {
+        "id": "BR-0908",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7427
+      },
+      {
+        "id": "BR-0909",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8437
+      },
+      {
+        "id": "BR-0927",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9159
+      },
+      {
+        "id": "BR-0958",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8435
+      },
+      {
+        "id": "BR-1121",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7078
+      },
+      {
+        "id": "BR-1122",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8338
+      },
+      {
+        "id": "BR-1341",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9278
+      },
+      {
+        "id": "BR-1348",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8413
+      },
+      {
+        "id": "BR-1349",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7525
+      },
+      {
+        "id": "BR-1509",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.839
+      },
+      {
+        "id": "BR-1623",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.748
+      },
+      {
+        "id": "BR-1968",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.861
+      },
+      {
+        "id": "BR-1990",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7399
+      },
+      {
+        "id": "BR-2025",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.852
+      },
+      {
+        "id": "BR-2035",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7798
+      },
+      {
+        "id": "BR-2050",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6884
+      },
+      {
+        "id": "BR-2188",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7312
+      },
+      {
+        "id": "BR-2255",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7631
+      },
+      {
+        "id": "BR-2494",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7387
+      },
+      {
+        "id": "BR-2495",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6534
+      },
+      {
+        "id": "BR-2522",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7838
+      },
+      {
+        "id": "BR-2523",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8505
+      },
+      {
+        "id": "BR-2548",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8871
+      },
+      {
+        "id": "BR-2733",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8046
+      },
+      {
+        "id": "BR-2980",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8463
+      },
+      {
+        "id": "BR-3052",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6882
+      },
+      {
+        "id": "BR-3207",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8553
+      },
+      {
+        "id": "BR-3300",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7379
+      },
+      {
+        "id": "BR-3312",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7113
+      },
+      {
+        "id": "BR-3322",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7571
+      },
+      {
+        "id": "BR-3555",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8106
+      },
+      {
+        "id": "BR-3690",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7959
+      },
+      {
+        "id": "BR-4152",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7314
+      },
+      {
+        "id": "BR-4190",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.82
+      },
+      {
+        "id": "BR-4337",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7158
+      },
+      {
+        "id": "BR-4376",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7595
+      },
+      {
+        "id": "BR-4455",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7686
+      },
+      {
+        "id": "BR-4710",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.858
+      },
+      {
+        "id": "BR-4737",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6805
+      },
+      {
+        "id": "BR-4810",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8238
+      },
+      {
+        "id": "BR-4868",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8088
+      },
+      {
+        "id": "BR-4876",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7855
+      },
+      {
+        "id": "BR-4930",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.766
+      },
+      {
+        "id": "BR-5083",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8272
+      },
+      {
+        "id": "BR-5234",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7428
+      },
+      {
+        "id": "BR-5236",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7701
+      },
+      {
+        "id": "BR-5246",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7007
+      },
+      {
+        "id": "BR-5283",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7545
+      },
+      {
+        "id": "BR-5318",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8208
+      },
+      {
+        "id": "BR-5379",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7797
+      },
+      {
+        "id": "BR-5434",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7118
+      },
+      {
+        "id": "BR-5528",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7412
+      },
+      {
+        "id": "BR-5754",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8209
+      },
+      {
+        "id": "BR-5843",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7375
+      },
+      {
+        "id": "BR-5880",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.739
+      },
+      {
+        "id": "BR-6367",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7186
+      },
+      {
+        "id": "BR-6441",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.6743
+      },
+      {
+        "id": "BR-6482",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7352
+      },
+      {
+        "id": "BR-6505",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7622
+      },
+      {
+        "id": "BR-6536",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8307
+      },
+      {
+        "id": "BR-6653",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7731
+      },
+      {
+        "id": "BR-6874",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7869
+      },
+      {
+        "id": "BR-7358",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9017
+      },
+      {
+        "id": "BR-7359",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8109
+      },
+      {
+        "id": "BR-7360",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.7582
+      },
+      {
+        "id": "BR-9123",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.809
+      },
+      {
+        "id": "BR-9124",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7296
+      },
+      {
+        "id": "BR-0006",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9451
+      },
+      {
+        "id": "BR-0067",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8754
+      },
+      {
+        "id": "BR-0068",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8949
+      },
+      {
+        "id": "BR-0078",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8785
+      },
+      {
+        "id": "BR-0283",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8819
+      },
+      {
+        "id": "BR-0285",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.888
+      },
+      {
+        "id": "BR-0289",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8873
+      },
+      {
+        "id": "BR-0302",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8826
+      },
+      {
+        "id": "BR-0308",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.757
+      },
+      {
+        "id": "BR-0502",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8854
+      },
+      {
+        "id": "BR-0503",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8818
+      },
+      {
+        "id": "BR-0511",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8804
+      },
+      {
+        "id": "BR-0723",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8881
+      },
+      {
+        "id": "BR-0726",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8949
+      },
+      {
+        "id": "BR-0727",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8949
+      },
+      {
+        "id": "BR-0729",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8753
+      },
+      {
+        "id": "BR-0906",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8267
+      },
+      {
+        "id": "BR-0907",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9775
+      },
+      {
+        "id": "BR-0955",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.89
+      },
+      {
+        "id": "BR-0956",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8634
+      },
+      {
+        "id": "BR-1989",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8993
+      },
+      {
+        "id": "BR-3065",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7762
+      },
+      {
+        "id": "BR-3255",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7597
+      },
+      {
+        "id": "BR-3968",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8236
+      },
+      {
+        "id": "BR-5826",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7729
+      },
+      {
+        "id": "BR-0203",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.7682
+      },
+      {
+        "id": "BR-0320",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9098
+      },
+      {
+        "id": "BR-0593",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8656
+      },
+      {
+        "id": "BR-0614",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8007
+      },
+      {
+        "id": "BR-0925",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9691
+      },
+      {
+        "id": "BR-1017",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9467
+      },
+      {
+        "id": "BR-2547",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8936
+      },
+      {
+        "id": "BR-5360",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.8025
+      }
+    ],
+    "edges": [],
+    "edge_rule": "verified_connections_only"
+  },
+  "verified": [],
+  "unverified": [
+    {
+      "id": "C-0003",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-1558",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.5335,
+      "port_xy": [
+        65.0,
+        589.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 9.462,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          65,
+          589
+        ],
+        "boundary_point": [
+          63.0,
+          589.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    },
+    {
+      "id": "C-0005",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-0011",
+      "status": "unverified",
+      "thickness_class": "thick",
+      "confidence": 0.5543,
+      "port_xy": [
+        7.0,
+        613.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.236,
+        "angle_diff_deg": 26.565,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "thick_pipe",
+        "endpoint": [
+          7,
+          613
+        ],
+        "boundary_point": [
+          8.0,
+          611.0
+        ],
+        "rejected_reason": "confidence_below_threshold"
+      }
+    },
+    {
+      "id": "C-0008",
+      "instrument_id": "I-0005",
+      "branch_id": "BR-3645",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.63,
+      "port_xy": [
+        411.0,
+        313.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 0.0,
+        "reach_px": 7.0,
+        "width_outside": 2.4,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          411,
+          313
+        ],
+        "boundary_point": [
+          409.0,
+          313.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    },
+    {
+      "id": "C-0009",
+      "instrument_id": "I-0005",
+      "branch_id": "BR-3651",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.54,
+      "port_xy": [
+        391.0,
+        334.0
+      ],
+      "evidence": {
+        "endpoint_distance": 4.0,
+        "angle_diff_deg": 0.0,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          391,
+          334
+        ],
+        "boundary_point": [
+          391.0,
+          330.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    },
+    {
+      "id": "C-0011",
+      "instrument_id": "I-0008",
+      "branch_id": "BR-2680",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.2739,
+      "port_xy": [
+        219.0,
+        639.0
+      ],
+      "evidence": {
+        "endpoint_distance": 8.0,
+        "angle_diff_deg": 4.764,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          219,
+          639
+        ],
+        "boundary_point": [
+          219.0,
+          631.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    },
+    {
+      "id": "C-0012",
+      "instrument_id": "I-0008",
+      "branch_id": "BR-2778",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.3027,
+      "port_xy": [
+        231.0,
+        635.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.236,
+        "angle_diff_deg": 26.565,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          231,
+          635
+        ],
+        "boundary_point": [
+          230.0,
+          633.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    },
+    {
+      "id": "C-0013",
+      "instrument_id": "I-0008",
+      "branch_id": "BR-2818",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.138,
+      "port_xy": [
+        240.0,
+        639.0
+      ],
+      "evidence": {
+        "endpoint_distance": 7.616,
+        "angle_diff_deg": 18.004,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          240,
+          639
+        ],
+        "boundary_point": [
+          237.0,
+          632.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    },
+    {
+      "id": "C-0015",
+      "instrument_id": "I-0008",
+      "branch_id": "BR-2984",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.4045,
+      "port_xy": [
+        253.0,
+        589.0
+      ],
+      "evidence": {
+        "endpoint_distance": 4.123,
+        "angle_diff_deg": 8.326,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          253,
+          589
+        ],
+        "boundary_point": [
+          249.0,
+          590.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "C-0001",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-1363",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.3,
+      "port_xy": [
+        57.0,
+        576.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 149.036,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          57,
+          576
+        ],
+        "boundary_point": [
+          57.0,
+          578.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0002",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-1431",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.12,
+      "port_xy": [
+        55.0,
+        625.0
+      ],
+      "evidence": {
+        "endpoint_distance": 5.0,
+        "angle_diff_deg": 98.13,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          55,
+          625
+        ],
+        "boundary_point": [
+          51.0,
+          622.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0004",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-0009",
+      "status": "rejected",
+      "thickness_class": "thin",
+      "confidence": 0.35,
+      "port_xy": [
+        7.0,
+        582.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.414,
+        "angle_diff_deg": 45.0,
+        "reach_px": 7.0,
+        "width_outside": 2.4,
+        "branch_label": "thin_pipe",
+        "endpoint": [
+          7,
+          582
+        ],
+        "boundary_point": [
+          8.0,
+          583.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0006",
+      "instrument_id": "I-0004",
+      "branch_id": "BR-1968",
+      "status": "rejected",
+      "thickness_class": "thin",
+      "confidence": 0.3353,
+      "port_xy": [
+        248.0,
+        234.0
+      ],
+      "evidence": {
+        "endpoint_distance": 5.0,
+        "angle_diff_deg": 41.634,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "thin_pipe",
+        "endpoint": [
+          248,
+          234
+        ],
+        "boundary_point": [
+          252.0,
+          231.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0007",
+      "instrument_id": "I-0004",
+      "branch_id": "BR-3207",
+      "status": "rejected",
+      "thickness_class": "thin",
+      "confidence": 0.3338,
+      "port_xy": [
+        289.0,
+        232.0
+      ],
+      "evidence": {
+        "endpoint_distance": 5.0,
+        "angle_diff_deg": 48.366,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "thin_pipe",
+        "endpoint": [
+          289,
+          232
+        ],
+        "boundary_point": [
+          286.0,
+          228.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0010",
+      "instrument_id": "I-0008",
+      "branch_id": "BR-2571",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.2715,
+      "port_xy": [
+        211.0,
+        629.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.828,
+        "angle_diff_deg": 33.69,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          211,
+          629
+        ],
+        "boundary_point": [
+          213.0,
+          627.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0014",
+      "instrument_id": "I-0008",
+      "branch_id": "BR-2959",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.0969,
+      "port_xy": [
+        251.0,
+        629.0
+      ],
+      "evidence": {
+        "endpoint_distance": 5.385,
+        "angle_diff_deg": 57.894,
+        "reach_px": 7.0,
+        "width_outside": 2.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          251,
+          629
+        ],
+        "boundary_point": [
+          249.0,
+          624.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    }
+  ]
+}

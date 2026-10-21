@@ -1,0 +1,182 @@
+{
+  "instruments": [
+    {
+      "id": "I-0001",
+      "shape": "circle",
+      "bbox": [
+        1151,
+        401,
+        1210,
+        460
+      ],
+      "center": [
+        1180.5,
+        430.5
+      ],
+      "confidence": 1.0,
+      "status": "accepted",
+      "internal_ink": 0.0727,
+      "in_grid": false,
+      "child_count": 1,
+      "ocr_ids": [],
+      "reasons": [
+        "shape:circle",
+        "closed_circle",
+        "internal_contour",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0002",
+      "shape": "circle",
+      "bbox": [
+        1213,
+        93,
+        1268,
+        148
+      ],
+      "center": [
+        1240.5,
+        120.5
+      ],
+      "confidence": 1.0,
+      "status": "accepted",
+      "internal_ink": 0.07,
+      "in_grid": false,
+      "child_count": 1,
+      "ocr_ids": [],
+      "reasons": [
+        "shape:circle",
+        "closed_circle",
+        "internal_contour",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0003",
+      "shape": "circle",
+      "bbox": [
+        477,
+        207,
+        564,
+        294
+      ],
+      "center": [
+        520.2,
+        250.2
+      ],
+      "confidence": 1.0,
+      "status": "accepted",
+      "internal_ink": 0.1152,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [
+        "T-0003"
+      ],
+      "reasons": [
+        "hough_circle",
+        "ring:1.00",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0004",
+      "shape": "circle",
+      "bbox": [
+        1044,
+        522,
+        1117,
+        595
+      ],
+      "center": [
+        1080.6,
+        558.6
+      ],
+      "confidence": 1.0,
+      "status": "accepted",
+      "internal_ink": 0.0248,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:1.00",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0005",
+      "shape": "rectangle",
+      "bbox": [
+        190,
+        328,
+        271,
+        411
+      ],
+      "center": [
+        230.0,
+        369.0
+      ],
+      "confidence": 1.0,
+      "status": "accepted",
+      "internal_ink": 0.0504,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "skeleton_face:rectangle",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0006",
+      "shape": "circle",
+      "bbox": [
+        876,
+        227,
+        924,
+        275
+      ],
+      "center": [
+        900.6,
+        251.4
+      ],
+      "confidence": 0.925,
+      "status": "accepted",
+      "internal_ink": 0.3435,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.83",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0007",
+      "shape": "circle",
+      "bbox": [
+        919,
+        231,
+        958,
+        270
+      ],
+      "center": [
+        939.0,
+        250.2
+      ],
+      "confidence": 0.9156,
+      "status": "accepted",
+      "internal_ink": 0.4175,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.81",
+        "internal_ink"
+      ]
+    }
+  ]
+}

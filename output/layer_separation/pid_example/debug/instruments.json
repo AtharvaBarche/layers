@@ -1,0 +1,208 @@
+{
+  "instruments": [
+    {
+      "id": "I-0001",
+      "shape": "circle",
+      "bbox": [
+        534,
+        9,
+        588,
+        63
+      ],
+      "center": [
+        561.0,
+        36.6
+      ],
+      "confidence": 0.9062,
+      "status": "rejected",
+      "internal_ink": 0.3292,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.79",
+        "internal_ink",
+        "header_row"
+      ]
+    },
+    {
+      "id": "I-0002",
+      "shape": "circle",
+      "bbox": [
+        345,
+        12,
+        383,
+        50
+      ],
+      "center": [
+        364.2,
+        30.6
+      ],
+      "confidence": 0.9062,
+      "status": "rejected",
+      "internal_ink": 0.3372,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.79",
+        "internal_ink",
+        "header_row"
+      ]
+    },
+    {
+      "id": "I-0003",
+      "shape": "circle",
+      "bbox": [
+        5,
+        567,
+        64,
+        626
+      ],
+      "center": [
+        34.2,
+        597.0
+      ],
+      "confidence": 0.8969,
+      "status": "accepted",
+      "internal_ink": 0.2487,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.77",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0004",
+      "shape": "circle",
+      "bbox": [
+        238,
+        177,
+        296,
+        235
+      ],
+      "center": [
+        267.0,
+        205.8
+      ],
+      "confidence": 0.8969,
+      "status": "accepted",
+      "internal_ink": 0.2895,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.77",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0005",
+      "shape": "circle",
+      "bbox": [
+        364,
+        283,
+        411,
+        330
+      ],
+      "center": [
+        387.0,
+        306.6
+      ],
+      "confidence": 0.8969,
+      "status": "accepted",
+      "internal_ink": 0.2599,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.77",
+        "internal_ink"
+      ]
+    },
+    {
+      "id": "I-0006",
+      "shape": "circle",
+      "bbox": [
+        146,
+        8,
+        183,
+        45
+      ],
+      "center": [
+        165.0,
+        27.0
+      ],
+      "confidence": 0.8969,
+      "status": "rejected",
+      "internal_ink": 0.3158,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.77",
+        "internal_ink",
+        "header_row"
+      ]
+    },
+    {
+      "id": "I-0007",
+      "shape": "circle",
+      "bbox": [
+        772,
+        10,
+        826,
+        64
+      ],
+      "center": [
+        798.6,
+        36.6
+      ],
+      "confidence": 0.8781,
+      "status": "rejected",
+      "internal_ink": 0.2221,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.73",
+        "internal_ink",
+        "header_row"
+      ]
+    },
+    {
+      "id": "I-0008",
+      "shape": "circle",
+      "bbox": [
+        203,
+        581,
+        254,
+        632
+      ],
+      "center": [
+        228.6,
+        606.6
+      ],
+      "confidence": 0.8781,
+      "status": "accepted",
+      "internal_ink": 0.2933,
+      "in_grid": false,
+      "child_count": 0,
+      "ocr_ids": [],
+      "reasons": [
+        "hough_circle",
+        "ring:0.73",
+        "internal_ink"
+      ]
+    }
+  ]
+}

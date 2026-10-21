@@ -1,0 +1,510 @@
+{
+  "image": {
+    "path": "C:\\Users\\HP\\Desktop\\imagelayering\\output\\layer_separation\\_fixture\\scene.png",
+    "width": 1400,
+    "height": 900,
+    "sha256": "8d9dc43fd2810d78476449645d51f189bdf34bac500852086a60a542069d37fd",
+    "original_unchanged": true,
+    "skew_deg_applied": 0.0
+  },
+  "width_modes": {
+    "thin_peak": 5.97,
+    "thick_peak": 11.804
+  },
+  "counts": {
+    "branches": {
+      "ambiguous": 8,
+      "noise": 190,
+      "instrument_stroke": 134,
+      "text": 2,
+      "thick_pipe": 8,
+      "thin_pipe": 10
+    },
+    "instruments_accepted": 7,
+    "instruments_recorded": 7,
+    "text_regions": 4,
+    "endpoints": 16,
+    "junctions": 4,
+    "visual_crossings": 2,
+    "unresolved_crossings": 0,
+    "verified_connections": 6,
+    "unverified_connections": 1,
+    "rejected_nearby": 7,
+    "thick_pixels": 14008,
+    "thin_pixels": 12095
+  },
+  "confidence": {
+    "pipe_mean": 0.9458,
+    "instrument_mean": 0.9772,
+    "verified_connection_mean": 0.8527,
+    "text_association_mean": 0.8832
+  },
+  "unresolved_connections": [
+    {
+      "id": "C-0010",
+      "instrument_id": "I-0006",
+      "branch_id": "BR-0147",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.4585,
+      "port_xy": [
+        922.0,
+        265.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.414,
+        "angle_diff_deg": 18.435,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          922,
+          265
+        ],
+        "boundary_point": [
+          921.0,
+          264.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    }
+  ],
+  "endpoints": [
+    {
+      "xy": [
+        40.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0002"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0001",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        41.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0003"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0002",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        230.0,
+        327.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0018"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0003",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        230.0,
+        412.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0027"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0004",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        475.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0032"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0005",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        566.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0060"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0006",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        760.0,
+        42.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0070"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0007",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        872.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0089"
+      ],
+      "width_ratio": 0.866,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0008",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1042.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0090"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0009",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        961.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0174"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0010",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1119.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0208"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0011",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1319.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0208"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0012",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1180.0,
+        340.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0213"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0013",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1320.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0215"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0014",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        430.0,
+        799.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0041"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0015",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        760.0,
+        859.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0081"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0016",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    }
+  ],
+  "junctions": [
+    {
+      "xy": [
+        230.0,
+        250.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0002",
+        "BR-0018",
+        "BR-0032"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0,
+        90.0,
+        0.0
+      ],
+      "id": "J-0001",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        230.0,
+        559.67
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0003",
+        "BR-0027",
+        "BR-0033"
+      ],
+      "width_ratio": 0.732,
+      "angles": [
+        180.0,
+        270.0,
+        0.0
+      ],
+      "id": "J-0002",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        430.0,
+        560.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0033",
+        "BR-0049",
+        "BR-0041"
+      ],
+      "width_ratio": 0.732,
+      "angles": [
+        180.0,
+        0.0,
+        90.0
+      ],
+      "id": "J-0003",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        1180.0,
+        250.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0174",
+        "BR-0213",
+        "BR-0215"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0,
+        90.0,
+        0.0
+      ],
+      "id": "J-0004",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    }
+  ],
+  "visual_crossings": [
+    {
+      "xy": [
+        760.0,
+        560.0
+      ],
+      "degree": 4,
+      "branch_ids": [
+        "BR-0049",
+        "BR-0075",
+        "BR-0090",
+        "BR-0081"
+      ],
+      "width_ratio": 0.933,
+      "angles": [
+        180.0,
+        270.0,
+        0.0,
+        90.0
+      ],
+      "id": "X-0001",
+      "kind": "visual_crossing",
+      "confidence": 0.74,
+      "note": "collinear_pairs_without_junction_blob"
+    },
+    {
+      "xy": [
+        760.0,
+        250.0
+      ],
+      "degree": 4,
+      "branch_ids": [
+        "BR-0060",
+        "BR-0070",
+        "BR-0075",
+        "BR-0089"
+      ],
+      "width_ratio": 0.866,
+      "angles": [
+        180.0,
+        270.0,
+        90.0,
+        0.0
+      ],
+      "id": "X-0002",
+      "kind": "visual_crossing",
+      "confidence": 0.74,
+      "note": "collinear_pairs_without_junction_blob"
+    }
+  ],
+  "unresolved_crossings": [],
+  "warnings": [],
+  "accuracy": {
+    "pixel_iou": null,
+    "connection_f1": null,
+    "available": false,
+    "note": "No manually verified ground truth was provided. Pixel accuracy and association accuracy were not measured, and high accuracy is not claimed."
+  }
+}

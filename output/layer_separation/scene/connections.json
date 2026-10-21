@@ -1,0 +1,644 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "I-0001",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          1180.5,
+          430.5
+        ]
+      },
+      {
+        "id": "I-0002",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          1240.5,
+          120.5
+        ]
+      },
+      {
+        "id": "I-0003",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          520.2,
+          250.2
+        ]
+      },
+      {
+        "id": "I-0004",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          1080.6,
+          558.6
+        ]
+      },
+      {
+        "id": "I-0005",
+        "kind": "instrument",
+        "shape": "rectangle",
+        "center": [
+          230.0,
+          369.0
+        ]
+      },
+      {
+        "id": "I-0006",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          900.6,
+          251.4
+        ]
+      },
+      {
+        "id": "I-0007",
+        "kind": "instrument",
+        "shape": "circle",
+        "center": [
+          939.0,
+          250.2
+        ]
+      },
+      {
+        "id": "BR-0002",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9575
+      },
+      {
+        "id": "BR-0003",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9899
+      },
+      {
+        "id": "BR-0018",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.825
+      },
+      {
+        "id": "BR-0027",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9412
+      },
+      {
+        "id": "BR-0032",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9613
+      },
+      {
+        "id": "BR-0033",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.994
+      },
+      {
+        "id": "BR-0049",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9926
+      },
+      {
+        "id": "BR-0060",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9607
+      },
+      {
+        "id": "BR-0070",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9838
+      },
+      {
+        "id": "BR-0075",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9855
+      },
+      {
+        "id": "BR-0089",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8676
+      },
+      {
+        "id": "BR-0090",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9925
+      },
+      {
+        "id": "BR-0174",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.9613
+      },
+      {
+        "id": "BR-0208",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9934
+      },
+      {
+        "id": "BR-0213",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8396
+      },
+      {
+        "id": "BR-0215",
+        "kind": "pipe",
+        "thickness_class": "thick",
+        "confidence": 0.8997
+      },
+      {
+        "id": "BR-0041",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9279
+      },
+      {
+        "id": "BR-0081",
+        "kind": "pipe",
+        "thickness_class": "thin",
+        "confidence": 0.9516
+      }
+    ],
+    "edges": [
+      {
+        "id": "C-0002",
+        "source": "I-0003",
+        "target": "BR-0060",
+        "thickness_class": "thick",
+        "confidence": 0.9552,
+        "port_xy": [
+          566.0,
+          250.0
+        ]
+      },
+      {
+        "id": "C-0004",
+        "source": "I-0004",
+        "target": "BR-0208",
+        "thickness_class": "thin",
+        "confidence": 0.607,
+        "port_xy": [
+          1119.0,
+          560.0
+        ]
+      },
+      {
+        "id": "C-0005",
+        "source": "I-0005",
+        "target": "BR-0018",
+        "thickness_class": "thick",
+        "confidence": 0.9388,
+        "port_xy": [
+          230.0,
+          327.0
+        ]
+      },
+      {
+        "id": "C-0006",
+        "source": "I-0005",
+        "target": "BR-0027",
+        "thickness_class": "thin",
+        "confidence": 0.9153,
+        "port_xy": [
+          230.0,
+          412.0
+        ]
+      },
+      {
+        "id": "C-0011",
+        "source": "I-0006",
+        "target": "BR-0089",
+        "thickness_class": "thick",
+        "confidence": 0.7444,
+        "port_xy": [
+          872.0,
+          250.0
+        ]
+      },
+      {
+        "id": "C-0014",
+        "source": "I-0007",
+        "target": "BR-0174",
+        "thickness_class": "thick",
+        "confidence": 0.9553,
+        "port_xy": [
+          961.0,
+          250.0
+        ]
+      }
+    ],
+    "edge_rule": "verified_connections_only"
+  },
+  "verified": [
+    {
+      "id": "C-0002",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-0060",
+      "status": "verified",
+      "thickness_class": "thick",
+      "confidence": 0.9552,
+      "port_xy": [
+        566.0,
+        250.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 0.0,
+        "reach_px": 24.0,
+        "width_outside": 12.0,
+        "branch_label": "thick_pipe",
+        "endpoint": [
+          566,
+          250
+        ],
+        "boundary_point": [
+          564.0,
+          250.0
+        ],
+        "rejected_reason": null
+      }
+    },
+    {
+      "id": "C-0004",
+      "instrument_id": "I-0004",
+      "branch_id": "BR-0208",
+      "status": "verified",
+      "thickness_class": "thin",
+      "confidence": 0.607,
+      "port_xy": [
+        1119.0,
+        560.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.236,
+        "angle_diff_deg": 26.565,
+        "reach_px": 12.0,
+        "width_outside": 6.0,
+        "branch_label": "thin_pipe",
+        "endpoint": [
+          1119,
+          560
+        ],
+        "boundary_point": [
+          1117.0,
+          559.0
+        ],
+        "rejected_reason": null
+      }
+    },
+    {
+      "id": "C-0005",
+      "instrument_id": "I-0005",
+      "branch_id": "BR-0018",
+      "status": "verified",
+      "thickness_class": "thick",
+      "confidence": 0.9388,
+      "port_xy": [
+        230.0,
+        327.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.0,
+        "angle_diff_deg": 0.0,
+        "reach_px": 24.0,
+        "width_outside": 12.0,
+        "branch_label": "thick_pipe",
+        "endpoint": [
+          230,
+          327
+        ],
+        "boundary_point": [
+          230.0,
+          328.0
+        ],
+        "rejected_reason": null
+      }
+    },
+    {
+      "id": "C-0006",
+      "instrument_id": "I-0005",
+      "branch_id": "BR-0027",
+      "status": "verified",
+      "thickness_class": "thin",
+      "confidence": 0.9153,
+      "port_xy": [
+        230.0,
+        412.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 0.0,
+        "reach_px": 12.0,
+        "width_outside": 6.0,
+        "branch_label": "thin_pipe",
+        "endpoint": [
+          230,
+          412
+        ],
+        "boundary_point": [
+          230.0,
+          410.0
+        ],
+        "rejected_reason": null
+      }
+    },
+    {
+      "id": "C-0011",
+      "instrument_id": "I-0006",
+      "branch_id": "BR-0089",
+      "status": "verified",
+      "thickness_class": "thick",
+      "confidence": 0.7444,
+      "port_xy": [
+        872.0,
+        250.0
+      ],
+      "evidence": {
+        "endpoint_distance": 5.099,
+        "angle_diff_deg": 11.31,
+        "reach_px": 24.0,
+        "width_outside": 12.0,
+        "branch_label": "thick_pipe",
+        "endpoint": [
+          872,
+          250
+        ],
+        "boundary_point": [
+          877.0,
+          249.0
+        ],
+        "rejected_reason": null
+      }
+    },
+    {
+      "id": "C-0014",
+      "instrument_id": "I-0007",
+      "branch_id": "BR-0174",
+      "status": "verified",
+      "thickness_class": "thick",
+      "confidence": 0.9553,
+      "port_xy": [
+        961.0,
+        250.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 0.0,
+        "reach_px": 24.0,
+        "width_outside": 12.0,
+        "branch_label": "thick_pipe",
+        "endpoint": [
+          961,
+          250
+        ],
+        "boundary_point": [
+          959.0,
+          250.0
+        ],
+        "rejected_reason": null
+      }
+    }
+  ],
+  "unverified": [
+    {
+      "id": "C-0010",
+      "instrument_id": "I-0006",
+      "branch_id": "BR-0147",
+      "status": "unverified",
+      "thickness_class": null,
+      "confidence": 0.4585,
+      "port_xy": [
+        922.0,
+        265.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.414,
+        "angle_diff_deg": 18.435,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          922,
+          265
+        ],
+        "boundary_point": [
+          921.0,
+          264.0
+        ],
+        "rejected_reason": "branch_not_a_confirmed_pipe"
+      }
+    }
+  ],
+  "rejected": [
+    {
+      "id": "C-0001",
+      "instrument_id": "I-0003",
+      "branch_id": "BR-0032",
+      "status": "rejected",
+      "thickness_class": "thick",
+      "confidence": 0.35,
+      "port_xy": [
+        475.0,
+        250.0
+      ],
+      "evidence": {
+        "endpoint_distance": 3.162,
+        "angle_diff_deg": 71.565,
+        "reach_px": 24.0,
+        "width_outside": 12.0,
+        "branch_label": "thick_pipe",
+        "endpoint": [
+          475,
+          250
+        ],
+        "boundary_point": [
+          476.0,
+          253.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0003",
+      "instrument_id": "I-0004",
+      "branch_id": "BR-0090",
+      "status": "rejected",
+      "thickness_class": "thin",
+      "confidence": 0.35,
+      "port_xy": [
+        1042.0,
+        560.0
+      ],
+      "evidence": {
+        "endpoint_distance": 3.606,
+        "angle_diff_deg": 33.69,
+        "reach_px": 12.0,
+        "width_outside": 6.0,
+        "branch_label": "thin_pipe",
+        "endpoint": [
+          1042,
+          560
+        ],
+        "boundary_point": [
+          1045.0,
+          562.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0007",
+      "instrument_id": "I-0006",
+      "branch_id": "BR-0095",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.2288,
+      "port_xy": [
+        873.0,
+        249.0
+      ],
+      "evidence": {
+        "endpoint_distance": 4.0,
+        "angle_diff_deg": 116.565,
+        "reach_px": 8.788,
+        "width_outside": 4.394,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          873,
+          249
+        ],
+        "boundary_point": [
+          877.0,
+          249.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0008",
+      "instrument_id": "I-0006",
+      "branch_id": "BR-0104",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.35,
+      "port_xy": [
+        909.0,
+        275.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.414,
+        "angle_diff_deg": 108.435,
+        "reach_px": 8.788,
+        "width_outside": 4.394,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          909,
+          275
+        ],
+        "boundary_point": [
+          908.0,
+          274.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0009",
+      "instrument_id": "I-0006",
+      "branch_id": "BR-0139",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.315,
+      "port_xy": [
+        921.0,
+        236.0
+      ],
+      "evidence": {
+        "endpoint_distance": 2.0,
+        "angle_diff_deg": 30.256,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          921,
+          236
+        ],
+        "boundary_point": [
+          919.0,
+          236.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0012",
+      "instrument_id": "I-0007",
+      "branch_id": "BR-0139",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.3458,
+      "port_xy": [
+        949.0,
+        231.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.414,
+        "angle_diff_deg": 120.964,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          949,
+          231
+        ],
+        "boundary_point": [
+          948.0,
+          232.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    },
+    {
+      "id": "C-0013",
+      "instrument_id": "I-0007",
+      "branch_id": "BR-0147",
+      "status": "rejected",
+      "thickness_class": null,
+      "confidence": 0.35,
+      "port_xy": [
+        942.0,
+        271.0
+      ],
+      "evidence": {
+        "endpoint_distance": 1.0,
+        "angle_diff_deg": 94.764,
+        "reach_px": 8.0,
+        "width_outside": 4.0,
+        "branch_label": "ambiguous",
+        "endpoint": [
+          942,
+          271
+        ],
+        "boundary_point": [
+          942.0,
+          270.0
+        ],
+        "rejected_reason": "orientation_not_aimed"
+      }
+    }
+  ]
+}

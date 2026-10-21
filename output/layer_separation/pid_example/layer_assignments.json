@@ -1,0 +1,8107 @@
+{
+  "instruments": [
+    {
+      "id": "I-0001",
+      "layer": "review",
+      "reason": "not_accepted",
+      "shape": "circle",
+      "confidence": 0.9062,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        534,
+        9,
+        588,
+        63
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0002",
+      "layer": "review",
+      "reason": "not_accepted",
+      "shape": "circle",
+      "confidence": 0.9062,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        345,
+        12,
+        383,
+        50
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0003",
+      "layer": "review",
+      "reason": "unverified_connection",
+      "shape": "circle",
+      "confidence": 0.8969,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 2,
+      "bbox": [
+        5,
+        567,
+        64,
+        626
+      ],
+      "center": [
+        34.2,
+        597.0
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0004",
+      "layer": "review",
+      "reason": "no_verified_connection",
+      "shape": "circle",
+      "confidence": 0.8969,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        238,
+        177,
+        296,
+        235
+      ],
+      "center": [
+        267.0,
+        205.8
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0005",
+      "layer": "review",
+      "reason": "unverified_connection",
+      "shape": "circle",
+      "confidence": 0.8969,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 2,
+      "bbox": [
+        364,
+        283,
+        411,
+        330
+      ],
+      "center": [
+        387.0,
+        306.6
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0006",
+      "layer": "review",
+      "reason": "not_accepted",
+      "shape": "circle",
+      "confidence": 0.8969,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        146,
+        8,
+        183,
+        45
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0007",
+      "layer": "review",
+      "reason": "not_accepted",
+      "shape": "circle",
+      "confidence": 0.8781,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 0,
+      "bbox": [
+        772,
+        10,
+        826,
+        64
+      ],
+      "ocr_ids": []
+    },
+    {
+      "id": "I-0008",
+      "layer": "review",
+      "reason": "unverified_connection",
+      "shape": "circle",
+      "confidence": 0.8781,
+      "verified_thick": 0,
+      "verified_thin": 0,
+      "unverified": 4,
+      "bbox": [
+        203,
+        581,
+        254,
+        632
+      ],
+      "center": [
+        228.6,
+        606.6
+      ],
+      "ocr_ids": []
+    }
+  ],
+  "pipes": [
+    {
+      "id": "BR-0077",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 11.41,
+      "confidence": 0.6319,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0085",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 56.41,
+      "confidence": 0.6883,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0088",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.41,
+      "confidence": 0.6266,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0089",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.41,
+      "confidence": 0.6478,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0104",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 22.0,
+      "confidence": 0.7575,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0105",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.5857,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0175",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6994,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0193",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.7126,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0204",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.83,
+      "confidence": 0.4746,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0210",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.41,
+      "confidence": 0.6205,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0250",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 21.0,
+      "confidence": 0.7575,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0300",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.41,
+      "confidence": 0.6111,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0303",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.41,
+      "confidence": 0.6654,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0305",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.41,
+      "confidence": 0.646,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0409",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.0,
+      "confidence": 0.7126,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0500",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 58.24,
+      "confidence": 0.6938,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0510",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 11.83,
+      "confidence": 0.6203,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0512",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.41,
+      "confidence": 0.6519,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0597",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.0,
+      "confidence": 0.7013,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0622",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.41,
+      "confidence": 0.656,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0629",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.0,
+      "confidence": 0.6972,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0669",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 24.66,
+      "confidence": 0.5894,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0730",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.24,
+      "confidence": 0.6708,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0734",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 15.83,
+      "confidence": 0.5931,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0793",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.0,
+      "confidence": 0.6786,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0796",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 17.24,
+      "confidence": 0.4221,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0828",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.24,
+      "confidence": 0.4778,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0844",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.41,
+      "confidence": 0.6038,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0886",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 22.41,
+      "confidence": 0.6553,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0901",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.0,
+      "confidence": 0.7575,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0926",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.24,
+      "confidence": 0.5135,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0932",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.569,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0938",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.0,
+      "confidence": 0.6958,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0947",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.83,
+      "confidence": 0.5828,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0965",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.0,
+      "confidence": 0.6958,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0978",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.0,
+      "confidence": 0.6958,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-0985",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.83,
+      "confidence": 0.5724,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-0998",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.41,
+      "confidence": 0.6044,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1001",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 17.0,
+      "confidence": 0.5126,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1007",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.0,
+      "confidence": 0.7575,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1080",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 17.66,
+      "confidence": 0.2797,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1087",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.07,
+      "confidence": 0.4543,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1095",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 14.24,
+      "confidence": 0.2795,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1125",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.41,
+      "confidence": 0.609,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1127",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 18.66,
+      "confidence": 0.2847,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1132",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.66,
+      "confidence": 0.4226,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1152",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 12.83,
+      "confidence": 0.334,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1180",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.0,
+      "confidence": 0.7026,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1187",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.49,
+      "confidence": 0.6022,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1190",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.24,
+      "confidence": 0.3366,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1248",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 34.24,
+      "confidence": 0.5582,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1254",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 32.14,
+      "confidence": 0.649,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1256",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 34.24,
+      "confidence": 0.5603,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1262",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 31.31,
+      "confidence": 0.6334,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1317",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.66,
+      "confidence": 0.5506,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1336",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.24,
+      "confidence": 0.5324,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1340",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.5487,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1347",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 17.41,
+      "confidence": 0.4372,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1361",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.0,
+      "confidence": 0.6338,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1363",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.49,
+      "confidence": 0.5311,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1365",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.0,
+      "confidence": 0.6809,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1394",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 29.41,
+      "confidence": 0.5119,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1408",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 28.24,
+      "confidence": 0.4508,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1425",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 28.31,
+      "confidence": 0.4373,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1431",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.66,
+      "confidence": 0.4053,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1452",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 11.83,
+      "confidence": 0.6479,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1495",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 11.83,
+      "confidence": 0.2108,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1497",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.394,
+      "length": 13.66,
+      "confidence": 0.3425,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1507",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 26.0,
+      "confidence": 0.6512,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1508",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 28.41,
+      "confidence": 0.6,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1510",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 24.07,
+      "confidence": 0.5855,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1552",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.642,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1558",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.83,
+      "confidence": 0.6192,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1566",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 12.0,
+      "confidence": 0.4927,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1575",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.41,
+      "confidence": 0.6474,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1591",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 31.31,
+      "confidence": 0.5748,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-1613",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.83,
+      "confidence": 0.3439,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1644",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.997,
+      "length": 12.24,
+      "confidence": 0.2819,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1722",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 10.24,
+      "confidence": 0.3392,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1735",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.0,
+      "confidence": 0.6317,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-1761",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.197,
+      "length": 13.07,
+      "confidence": 0.4102,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1791",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.66,
+      "confidence": 0.4325,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1880",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 16.66,
+      "confidence": 0.3079,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-1881",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.41,
+      "confidence": 0.5635,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2009",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 13.41,
+      "confidence": 0.404,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2028",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.0,
+      "confidence": 0.7019,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2033",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 26.0,
+      "confidence": 0.7126,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2045",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.83,
+      "confidence": 0.5363,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2061",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.07,
+      "confidence": 0.4406,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2067",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 19.83,
+      "confidence": 0.3791,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2068",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.83,
+      "confidence": 0.5272,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2069",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 40.21,
+      "confidence": 0.4911,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2092",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 13.24,
+      "confidence": 0.259,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2120",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.6726,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2136",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.0,
+      "confidence": 0.7126,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2138",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.66,
+      "confidence": 0.4447,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2155",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.0,
+      "length": 10.24,
+      "confidence": 0.3692,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2190",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 17.66,
+      "confidence": 0.4579,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2203",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.07,
+      "confidence": 0.5395,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2225",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6452,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2248",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.5527,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2264",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.66,
+      "confidence": 0.6138,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2283",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 20.66,
+      "confidence": 0.5488,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2295",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 16.66,
+      "confidence": 0.3937,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2296",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.24,
+      "confidence": 0.5546,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2307",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.0,
+      "confidence": 0.6466,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2308",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 13.83,
+      "confidence": 0.3209,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2318",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 10.24,
+      "confidence": 0.2769,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2324",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.41,
+      "confidence": 0.5811,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2332",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.83,
+      "confidence": 0.6136,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2338",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.9,
+      "confidence": 0.3627,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2368",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.5361,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2374",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 12.0,
+      "confidence": 0.4887,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2392",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 11.24,
+      "confidence": 0.2176,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2393",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.66,
+      "confidence": 0.3147,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2452",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.6303,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2458",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.83,
+      "confidence": 0.5139,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2477",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.83,
+      "confidence": 0.5863,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2479",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.49,
+      "confidence": 0.3941,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2496",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.24,
+      "confidence": 0.5698,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2515",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 28.41,
+      "confidence": 0.6035,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2571",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.83,
+      "confidence": 0.5684,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2614",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 60.28,
+      "confidence": 0.5182,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2620",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.24,
+      "confidence": 0.6409,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2628",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 10.66,
+      "confidence": 0.2143,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2629",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.83,
+      "confidence": 0.5317,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2653",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 12.83,
+      "confidence": 0.3422,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2660",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.31,
+      "confidence": 0.596,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2675",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 5.6,
+      "length": 10.83,
+      "confidence": 0.3146,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2680",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.24,
+      "confidence": 0.5474,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2709",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 10.41,
+      "confidence": 0.3796,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2738",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 37.24,
+      "confidence": 0.5701,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2754",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.41,
+      "confidence": 0.6038,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2774",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.41,
+      "confidence": 0.5746,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2778",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.0,
+      "confidence": 0.6563,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2782",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.83,
+      "confidence": 0.62,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2818",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.24,
+      "confidence": 0.5654,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2819",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.66,
+      "confidence": 0.4882,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2846",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.24,
+      "confidence": 0.6378,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2854",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 22.07,
+      "confidence": 0.2669,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2865",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.83,
+      "confidence": 0.4967,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2873",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 27.83,
+      "confidence": 0.5338,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2912",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 37.24,
+      "confidence": 0.5694,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2919",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 10.41,
+      "confidence": 0.3801,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2959",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.83,
+      "confidence": 0.4491,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-2960",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 42.83,
+      "confidence": 0.6514,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2973",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 11.24,
+      "confidence": 0.581,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-2976",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.24,
+      "confidence": 0.5809,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-2984",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.41,
+      "confidence": 0.5645,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-3036",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 17.07,
+      "confidence": 0.5678,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-3144",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.83,
+      "confidence": 0.5914,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3264",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.24,
+      "confidence": 0.5379,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3424",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.0,
+      "confidence": 0.7106,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3492",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.24,
+      "confidence": 0.461,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3533",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 11.41,
+      "confidence": 0.3924,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3556",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.41,
+      "confidence": 0.5797,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-3625",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.41,
+      "confidence": 0.3796,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3627",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 26.41,
+      "confidence": 0.4384,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3645",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 13.83,
+      "confidence": 0.383,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3651",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 18.24,
+      "confidence": 0.6435,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3652",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 21.83,
+      "confidence": 0.3681,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3654",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.9,
+      "confidence": 0.3494,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3667",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 44.66,
+      "confidence": 0.6777,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-3678",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 71.66,
+      "confidence": 0.5329,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3692",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.07,
+      "confidence": 0.3621,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3694",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 35.46,
+      "confidence": 0.4425,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3729",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.24,
+      "confidence": 0.4941,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3759",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 38.14,
+      "confidence": 0.6408,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-3783",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 12.0,
+      "confidence": 0.4825,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3797",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.24,
+      "confidence": 0.5967,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3869",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.83,
+      "confidence": 0.4203,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3908",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.24,
+      "confidence": 0.5898,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3929",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 28.41,
+      "confidence": 0.5918,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3953",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 14.0,
+      "confidence": 0.492,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3966",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.41,
+      "confidence": 0.5809,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-3972",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 17.66,
+      "confidence": 0.2551,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-3976",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.83,
+      "confidence": 0.5495,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4012",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.66,
+      "confidence": 0.601,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4030",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.83,
+      "confidence": 0.5894,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4031",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.83,
+      "confidence": 0.5434,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4034",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.66,
+      "confidence": 0.629,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4042",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.0,
+      "confidence": 0.7019,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4052",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.14,
+      "confidence": 0.3325,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4055",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 29.31,
+      "confidence": 0.4237,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4069",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 34.66,
+      "confidence": 0.5363,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4075",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.9,
+      "confidence": 0.5803,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4106",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.41,
+      "confidence": 0.5799,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4117",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.0,
+      "confidence": 0.6547,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4123",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.0,
+      "confidence": 0.7024,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4134",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 26.41,
+      "confidence": 0.6044,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4145",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 26.41,
+      "confidence": 0.6247,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4146",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.5497,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4154",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.0,
+      "confidence": 0.6582,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4158",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.83,
+      "confidence": 0.5573,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4159",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.0,
+      "confidence": 0.6953,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4161",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.41,
+      "confidence": 0.6225,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4162",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 24.83,
+      "confidence": 0.4239,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4166",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.07,
+      "confidence": 0.4338,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4171",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.0,
+      "confidence": 0.6998,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4208",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.41,
+      "confidence": 0.6144,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4228",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.49,
+      "confidence": 0.3595,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4282",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.0,
+      "confidence": 0.7343,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4294",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.24,
+      "confidence": 0.4722,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4296",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.41,
+      "confidence": 0.5953,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4324",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 59.24,
+      "confidence": 0.6877,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4345",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 22.31,
+      "confidence": 0.3422,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4361",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.83,
+      "confidence": 0.5713,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4379",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.5587,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4392",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 11.41,
+      "confidence": 0.4583,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4405",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 28.0,
+      "confidence": 0.7039,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4410",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.6953,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4433",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 19.66,
+      "confidence": 0.315,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4470",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 30.41,
+      "confidence": 0.4956,
+      "reasons": [
+        "width:ambiguous",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4472",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.83,
+      "confidence": 0.6192,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4503",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.66,
+      "confidence": 0.5775,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4527",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 30.83,
+      "confidence": 0.4504,
+      "reasons": [
+        "width:ambiguous",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4529",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 30.41,
+      "confidence": 0.4955,
+      "reasons": [
+        "width:ambiguous",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4605",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.83,
+      "confidence": 0.4426,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4624",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.83,
+      "confidence": 0.4984,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4625",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6771,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4627",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.07,
+      "confidence": 0.4741,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4628",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 15.41,
+      "confidence": 0.3995,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4636",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 5.6,
+      "length": 10.83,
+      "confidence": 0.3145,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4637",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.24,
+      "confidence": 0.5451,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4675",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.31,
+      "confidence": 0.6177,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4797",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 41.83,
+      "confidence": 0.642,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4798",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6427,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4811",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 26.41,
+      "confidence": 0.5968,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4814",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 19.66,
+      "confidence": 0.5405,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4831",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.41,
+      "confidence": 0.5653,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4863",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.41,
+      "confidence": 0.5567,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4875",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.41,
+      "confidence": 0.6156,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4904",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 13.0,
+      "confidence": 0.4687,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4924",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 29.24,
+      "confidence": 0.5987,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-4931",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.83,
+      "confidence": 0.5435,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4934",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.83,
+      "confidence": 0.5795,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-4953",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 11.83,
+      "confidence": 0.401,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4988",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.66,
+      "confidence": 0.5521,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-4989",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.8,
+      "length": 12.66,
+      "confidence": 0.2702,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5013",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.41,
+      "confidence": 0.5315,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5039",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.0,
+      "confidence": 0.6768,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5090",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 11.41,
+      "confidence": 0.3799,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5098",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 37.83,
+      "confidence": 0.6332,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5109",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.24,
+      "confidence": 0.5311,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5136",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.0,
+      "confidence": 0.6647,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5189",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 23.24,
+      "confidence": 0.5194,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5190",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.83,
+      "confidence": 0.546,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5210",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.41,
+      "confidence": 0.6279,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5211",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 21.24,
+      "confidence": 0.3297,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5212",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 25.07,
+      "confidence": 0.6047,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5237",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.41,
+      "confidence": 0.5822,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5251",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 23.66,
+      "confidence": 0.3169,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5271",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 49.24,
+      "confidence": 0.4912,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5279",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 42.83,
+      "confidence": 0.6816,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5284",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 14.49,
+      "confidence": 0.1837,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5285",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 54.87,
+      "confidence": 0.4927,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5286",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.24,
+      "confidence": 0.4834,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5330",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 38.83,
+      "confidence": 0.636,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5337",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 37.56,
+      "confidence": 0.637,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5351",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.66,
+      "confidence": 0.2579,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5382",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 24.0,
+      "confidence": 0.6703,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5403",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 41.0,
+      "confidence": 0.5801,
+      "reasons": [
+        "width:ambiguous"
+      ]
+    },
+    {
+      "id": "BR-5431",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.24,
+      "confidence": 0.5298,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5435",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 23.41,
+      "confidence": 0.6282,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5436",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 23.41,
+      "confidence": 0.584,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5478",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 13.24,
+      "confidence": 0.5174,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5479",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.66,
+      "confidence": 0.4567,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5502",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.24,
+      "confidence": 0.5365,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5505",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.83,
+      "confidence": 0.5237,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5510",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 19.49,
+      "confidence": 0.2106,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5520",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 16.83,
+      "confidence": 0.6059,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5522",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.24,
+      "confidence": 0.5353,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5533",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.0,
+      "confidence": 0.6533,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5545",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 19.83,
+      "confidence": 0.4121,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5547",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.66,
+      "confidence": 0.5933,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5577",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.0,
+      "confidence": 0.6982,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5582",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.0,
+      "confidence": 0.7019,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5583",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.83,
+      "confidence": 0.3045,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5584",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.0,
+      "confidence": 0.7022,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5605",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.07,
+      "confidence": 0.5906,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5614",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.66,
+      "confidence": 0.4816,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5628",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.394,
+      "length": 15.07,
+      "confidence": 0.3668,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5661",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.24,
+      "confidence": 0.5484,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5665",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 16.07,
+      "confidence": 0.4572,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5716",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.6432,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5717",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.83,
+      "confidence": 0.5323,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5766",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 39.83,
+      "confidence": 0.6321,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5787",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.83,
+      "confidence": 0.511,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5805",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.41,
+      "confidence": 0.5578,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5808",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.83,
+      "confidence": 0.5615,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5842",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.41,
+      "confidence": 0.5952,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5867",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.24,
+      "confidence": 0.5728,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-5873",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 29.0,
+      "confidence": 0.704,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5943",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 41.87,
+      "confidence": 0.3151,
+      "reasons": [
+        "width:ambiguous",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-5982",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.647,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-5993",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6461,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6004",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.0,
+      "confidence": 0.6439,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6010",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.41,
+      "confidence": 0.5379,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6013",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.83,
+      "confidence": 0.289,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6024",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.0,
+      "confidence": 0.6158,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6038",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.24,
+      "confidence": 0.5957,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6047",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.83,
+      "confidence": 0.5918,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6048",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 29.0,
+      "confidence": 0.4885,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6050",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 32.73,
+      "confidence": 0.6085,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6061",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.66,
+      "confidence": 0.473,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6090",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.41,
+      "confidence": 0.5572,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6091",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 18.41,
+      "confidence": 0.5674,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6154",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 23.66,
+      "confidence": 0.3288,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6169",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 18.49,
+      "confidence": 0.2103,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6270",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.66,
+      "confidence": 0.3565,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6289",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 42.46,
+      "confidence": 0.4856,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6294",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.07,
+      "confidence": 0.5929,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6300",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.83,
+      "confidence": 0.5758,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6326",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.66,
+      "confidence": 0.5388,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6350",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.07,
+      "confidence": 0.5245,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6352",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 19.41,
+      "confidence": 0.5887,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6370",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.647,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6381",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.66,
+      "confidence": 0.4447,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6390",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.9,
+      "confidence": 0.4155,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6397",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.07,
+      "confidence": 0.4361,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6433",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 27.83,
+      "confidence": 0.6225,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6444",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 13.83,
+      "confidence": 0.3404,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6451",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 17.66,
+      "confidence": 0.5756,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6516",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.83,
+      "confidence": 0.595,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6518",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 11.0,
+      "confidence": 0.5123,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6524",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.83,
+      "confidence": 0.5915,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6525",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.41,
+      "confidence": 0.5948,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6577",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.41,
+      "confidence": 0.58,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6584",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 13.83,
+      "confidence": 0.3593,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6592",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.0,
+      "confidence": 0.6727,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6619",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.6432,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6620",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.647,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6637",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.197,
+      "length": 13.07,
+      "confidence": 0.4112,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6638",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 10.24,
+      "confidence": 0.1755,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6641",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.83,
+      "confidence": 0.1967,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6643",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 15.07,
+      "confidence": 0.4316,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6670",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 24.66,
+      "confidence": 0.5686,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6716",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.0,
+      "confidence": 0.6671,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6720",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 42.04,
+      "confidence": 0.4774,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6725",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.07,
+      "confidence": 0.5348,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6729",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.0,
+      "confidence": 0.6757,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6731",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.31,
+      "confidence": 0.4514,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6758",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.73,
+      "confidence": 0.4002,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6774",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.647,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6798",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.49,
+      "confidence": 0.3608,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6884",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 27.66,
+      "confidence": 0.614,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-6938",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 24.83,
+      "confidence": 0.6634,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6945",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 11.24,
+      "confidence": 0.2987,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-6967",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 25.0,
+      "confidence": 0.6601,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-6971",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6427,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-7019",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 23.49,
+      "confidence": 0.2299,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7023",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.41,
+      "confidence": 0.5631,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-7060",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.6365,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-7062",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.0,
+      "confidence": 0.647,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-7076",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 17.41,
+      "confidence": 0.4375,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7077",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.24,
+      "confidence": 0.5212,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7078",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 16.24,
+      "confidence": 0.564,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-7080",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 24.31,
+      "confidence": 0.3693,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7086",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.41,
+      "confidence": 0.569,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-7101",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 29.24,
+      "confidence": 0.4055,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7113",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.197,
+      "length": 11.41,
+      "confidence": 0.4677,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7117",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 10.83,
+      "confidence": 0.1287,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7119",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.394,
+      "length": 13.66,
+      "confidence": 0.3428,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7149",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.794,
+      "length": 13.0,
+      "confidence": 0.4643,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7162",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 35.66,
+      "confidence": 0.511,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7178",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.8,
+      "length": 20.41,
+      "confidence": 0.4567,
+      "reasons": [
+        "width:ambiguous",
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7205",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 30.49,
+      "confidence": 0.5957,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-7270",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 34.14,
+      "confidence": 0.4877,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7271",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 36.07,
+      "confidence": 0.6089,
+      "reasons": [
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-7291",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 35.9,
+      "confidence": 0.4977,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7299",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 29.41,
+      "confidence": 0.671,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-7313",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 16.41,
+      "confidence": 0.6406,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-7318",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 26.83,
+      "confidence": 0.5429,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7348",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 42.07,
+      "confidence": 0.5575,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7349",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.83,
+      "confidence": 0.362,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7380",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.0,
+      "confidence": 0.7575,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-7423",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 15.41,
+      "confidence": 0.5549,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7449",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 8.0,
+      "length": 13.0,
+      "confidence": 0.4704,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7495",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 14.49,
+      "confidence": 0.3353,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7736",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 11.66,
+      "confidence": 0.4535,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-7932",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 7.597,
+      "length": 13.0,
+      "confidence": 0.4669,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8090",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.24,
+      "confidence": 0.6058,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-8103",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 24.24,
+      "confidence": 0.4427,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8273",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 11.24,
+      "confidence": 0.2371,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8294",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.394,
+      "length": 11.41,
+      "confidence": 0.2357,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8378",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 22.66,
+      "confidence": 0.6588,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-8380",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 3.4,
+      "length": 38.73,
+      "confidence": 0.4779,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8438",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.24,
+      "confidence": 0.4554,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8464",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.0,
+      "confidence": 0.6724,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-8465",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 17.83,
+      "confidence": 0.6654,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-8614",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.394,
+      "length": 12.41,
+      "confidence": 0.375,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8659",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 10.07,
+      "confidence": 0.5381,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8757",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6577,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-8858",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.41,
+      "confidence": 0.5488,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8892",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 12.66,
+      "confidence": 0.2913,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8893",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.394,
+      "length": 13.24,
+      "confidence": 0.4512,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-8967",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 11.0,
+      "confidence": 0.6633,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-9005",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.83,
+      "confidence": 0.4776,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9010",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 12.66,
+      "confidence": 0.4539,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9073",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 33.73,
+      "confidence": 0.5027,
+      "reasons": [
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9089",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 23.24,
+      "confidence": 0.5709,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-9113",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 15.41,
+      "confidence": 0.5681,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-9117",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 13.49,
+      "confidence": 0.3362,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9118",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.41,
+      "confidence": 0.5987,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-9164",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 20.49,
+      "confidence": 0.4412,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9179",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 25.07,
+      "confidence": 0.6094,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-9199",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 21.41,
+      "confidence": 0.6105,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-9280",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 21.41,
+      "confidence": 0.6677,
+      "reasons": [
+        "below_min_length"
+      ]
+    },
+    {
+      "id": "BR-9326",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 15.41,
+      "confidence": 0.5513,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9334",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 17.66,
+      "confidence": 0.6408,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-9336",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 17.66,
+      "confidence": 0.4172,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9388",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.4,
+      "length": 10.24,
+      "confidence": 0.3441,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9394",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 8.0,
+      "length": 14.0,
+      "confidence": 0.4674,
+      "reasons": [
+        "below_min_length",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9511",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 10.41,
+      "confidence": 0.6453,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-9838",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 14.41,
+      "confidence": 0.5547,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9954",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 2.0,
+      "length": 12.49,
+      "confidence": 0.3341,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-9983",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 4.0,
+      "length": 11.66,
+      "confidence": 0.5721,
+      "reasons": [
+        "below_min_length",
+        "not_linear"
+      ]
+    },
+    {
+      "id": "BR-10056",
+      "layer": "review",
+      "label": "ambiguous",
+      "width": 6.0,
+      "length": 17.41,
+      "confidence": 0.3843,
+      "reasons": [
+        "below_min_length",
+        "not_linear",
+        "score_below_threshold"
+      ]
+    },
+    {
+      "id": "BR-0009",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.4,
+      "length": 65.0,
+      "confidence": 0.6414,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0011",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 171.83,
+      "confidence": 0.939,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0017",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 82.83,
+      "confidence": 0.7795,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0066",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 30.0,
+      "confidence": 0.8125,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0072",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 43.41,
+      "confidence": 0.7378,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0076",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 54.41,
+      "confidence": 0.7812,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0091",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 31.24,
+      "confidence": 0.7723,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0171",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 103.0,
+      "confidence": 0.9464,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0174",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 103.0,
+      "confidence": 0.8949,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0178",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 103.0,
+      "confidence": 0.8949,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0200",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 69.0,
+      "confidence": 0.8391,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0282",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 50.0,
+      "confidence": 0.8492,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0318",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 31.41,
+      "confidence": 0.6989,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0390",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 104.41,
+      "confidence": 0.9051,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0402",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 87.41,
+      "confidence": 0.836,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0416",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 55.0,
+      "confidence": 0.8135,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0507",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 42.0,
+      "confidence": 0.7824,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0509",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 56.07,
+      "confidence": 0.7669,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0516",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 33.24,
+      "confidence": 0.7558,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0591",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 109.38,
+      "confidence": 0.859,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0596",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 103.0,
+      "confidence": 0.8949,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0606",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 85.0,
+      "confidence": 0.8633,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0621",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 90.0,
+      "confidence": 0.9188,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0725",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 56.49,
+      "confidence": 0.7199,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0731",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 53.83,
+      "confidence": 0.7642,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0733",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 55.9,
+      "confidence": 0.7646,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0822",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 201.0,
+      "confidence": 0.8789,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0839",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 84.83,
+      "confidence": 0.8306,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0851",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 53.0,
+      "confidence": 0.7972,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0891",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 33.0,
+      "confidence": 0.816,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0896",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 690.9,
+      "confidence": 0.9479,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0908",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 48.41,
+      "confidence": 0.7427,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0909",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 47.0,
+      "confidence": 0.8437,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0927",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 184.41,
+      "confidence": 0.9159,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0958",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 125.49,
+      "confidence": 0.8435,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1121",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 43.41,
+      "confidence": 0.7078,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1122",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 90.83,
+      "confidence": 0.8338,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1341",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 130.24,
+      "confidence": 0.9278,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1348",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 133.83,
+      "confidence": 0.8413,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1349",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 47.66,
+      "confidence": 0.7525,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1509",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 72.0,
+      "confidence": 0.839,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1623",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 45.0,
+      "confidence": 0.748,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1968",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 130.24,
+      "confidence": 0.861,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-1990",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 36.24,
+      "confidence": 0.7399,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2025",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 81.24,
+      "confidence": 0.852,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2035",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 81.14,
+      "confidence": 0.7798,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2050",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 30.41,
+      "confidence": 0.6884,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2188",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 37.41,
+      "confidence": 0.7312,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2255",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 32.0,
+      "confidence": 0.7631,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2494",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 55.66,
+      "confidence": 0.7387,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2495",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 39.49,
+      "confidence": 0.6534,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2522",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 85.07,
+      "confidence": 0.7838,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2523",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 103.66,
+      "confidence": 0.8505,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2548",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 94.41,
+      "confidence": 0.8871,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2733",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 91.24,
+      "confidence": 0.8046,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-2980",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 92.83,
+      "confidence": 0.8463,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-3052",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 33.41,
+      "confidence": 0.6882,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-3207",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 182.66,
+      "confidence": 0.8553,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-3300",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 87.07,
+      "confidence": 0.7379,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-3312",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 60.66,
+      "confidence": 0.7113,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-3322",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 53.83,
+      "confidence": 0.7571,
+      "reasons": [
+        "width:thin",
+        "directional_opening"
+      ]
+    },
+    {
+      "id": "BR-3555",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 79.41,
+      "confidence": 0.8106,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-3690",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 89.24,
+      "confidence": 0.7959,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4152",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 45.49,
+      "confidence": 0.7314,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4190",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 89.66,
+      "confidence": 0.82,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4337",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 60.66,
+      "confidence": 0.7158,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4376",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 42.41,
+      "confidence": 0.7595,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4455",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 53.0,
+      "confidence": 0.7686,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4710",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 248.07,
+      "confidence": 0.858,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4737",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 38.41,
+      "confidence": 0.6805,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4810",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 77.41,
+      "confidence": 0.8238,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4868",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 104.9,
+      "confidence": 0.8088,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4876",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 47.0,
+      "confidence": 0.7855,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-4930",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 49.0,
+      "confidence": 0.766,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5083",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 133.66,
+      "confidence": 0.8272,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5234",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 59.83,
+      "confidence": 0.7428,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5236",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 51.0,
+      "confidence": 0.7701,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5246",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 36.41,
+      "confidence": 0.7007,
+      "reasons": [
+        "width:thin",
+        "directional_opening"
+      ]
+    },
+    {
+      "id": "BR-5283",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 91.66,
+      "confidence": 0.7545,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5318",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 135.66,
+      "confidence": 0.8208,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5379",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 53.41,
+      "confidence": 0.7797,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5434",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 40.41,
+      "confidence": 0.7118,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5528",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 42.41,
+      "confidence": 0.7412,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5754",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 136.07,
+      "confidence": 0.8209,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5843",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 43.83,
+      "confidence": 0.7375,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-5880",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 41.0,
+      "confidence": 0.739,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6367",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 74.66,
+      "confidence": 0.7186,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6441",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 70.83,
+      "confidence": 0.6743,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6482",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 59.41,
+      "confidence": 0.7352,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6505",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 40.83,
+      "confidence": 0.7622,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6536",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 86.41,
+      "confidence": 0.8307,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6653",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 50.0,
+      "confidence": 0.7731,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-6874",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 74.07,
+      "confidence": 0.7869,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-7358",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 423.46,
+      "confidence": 0.9017,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-7359",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 57.0,
+      "confidence": 0.8109,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-7360",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 44.9,
+      "confidence": 0.7582,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-9123",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 80.41,
+      "confidence": 0.809,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-9124",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 63.24,
+      "confidence": 0.7296,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support"
+      ]
+    },
+    {
+      "id": "BR-0006",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 503.66,
+      "confidence": 0.9451,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0067",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 160.24,
+      "confidence": 0.8754,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0068",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 159.0,
+      "confidence": 0.8949,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0078",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 159.0,
+      "confidence": 0.8785,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0283",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 162.07,
+      "confidence": 0.8819,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0285",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 160.0,
+      "confidence": 0.888,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0289",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 160.0,
+      "confidence": 0.8873,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0302",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 162.9,
+      "confidence": 0.8826,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0308",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 79.24,
+      "confidence": 0.757,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0502",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 159.0,
+      "confidence": 0.8854,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0503",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 163.56,
+      "confidence": 0.8818,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0511",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 162.31,
+      "confidence": 0.8804,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0723",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 159.0,
+      "confidence": 0.8881,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0726",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 158.0,
+      "confidence": 0.8949,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0727",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 159.83,
+      "confidence": 0.8949,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0729",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 158.83,
+      "confidence": 0.8753,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0906",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 188.38,
+      "confidence": 0.8267,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0907",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 173.0,
+      "confidence": 0.9775,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0955",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 137.07,
+      "confidence": 0.89,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0956",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 135.0,
+      "confidence": 0.8634,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-1989",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 366.82,
+      "confidence": 0.8993,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-3065",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 123.24,
+      "confidence": 0.7762,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-3255",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 73.41,
+      "confidence": 0.7597,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-3968",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 159.07,
+      "confidence": 0.8236,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-5826",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 92.24,
+      "confidence": 0.7729,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0203",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 139.9,
+      "confidence": 0.7682,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0320",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 583.14,
+      "confidence": 0.9098,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0593",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 203.02,
+      "confidence": 0.8656,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0614",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 141.0,
+      "confidence": 0.8007,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-0925",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 391.24,
+      "confidence": 0.9691,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-1017",
+      "layer": "thick",
+      "label": "thick_pipe",
+      "width": 4.0,
+      "length": 690.73,
+      "confidence": 0.9467,
+      "reasons": [
+        "width:thick",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-2547",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 401.61,
+      "confidence": 0.8936,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    },
+    {
+      "id": "BR-5360",
+      "layer": "thin",
+      "label": "thin_pipe",
+      "width": 2.0,
+      "length": 151.71,
+      "confidence": 0.8025,
+      "reasons": [
+        "width:thin",
+        "directional_opening",
+        "hough_support",
+        "bridged_collinear"
+      ]
+    }
+  ],
+  "text": [
+    {
+      "id": "T-0001",
+      "text": "ITEM NO.",
+      "bbox": [
+        109.0,
+        11.0,
+        132.0,
+        22.0
+      ],
+      "confidence": 0.9747,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8793,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0002",
+      "text": "OPEN ORAN DRUM",
+      "bbox": [
+        176.0,
+        21.0,
+        219.0,
+        31.0
+      ],
+      "confidence": 0.9147,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0003",
+      "text": "404-V-2567",
+      "bbox": [
+        185.0,
+        13.0,
+        215.0,
+        20.0
+      ],
+      "confidence": 0.8857,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8801,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0004",
+      "text": "TDM MD.",
+      "bbox": [
+        295.0,
+        13.0,
+        315.0,
+        21.0
+      ],
+      "confidence": 0.8352,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8832,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0005",
+      "text": "OPON DRAM PUMP",
+      "bbox": [
+        365.0,
+        21.0,
+        408.0,
+        31.0
+      ],
+      "confidence": 0.9072,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8825,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0006",
+      "text": "484-P-2510A/B",
+      "bbox": [
+        368.0,
+        12.0,
+        408.0,
+        22.0
+      ],
+      "confidence": 0.8987,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8809,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0007",
+      "text": "SERMCE",
+      "bbox": [
+        493.0,
+        19.0,
+        516.0,
+        32.0
+      ],
+      "confidence": 0.7986,
+      "kind": "OTHER",
+      "angle": 5.19,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8582,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0008",
+      "text": "ITEM NO",
+      "bbox": [
+        495.0,
+        13.0,
+        516.0,
+        21.0
+      ],
+      "confidence": 0.9207,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0009",
+      "text": "CLDGED DRAN GRUM",
+      "bbox": [
+        562.0,
+        21.0,
+        611.0,
+        31.0
+      ],
+      "confidence": 0.8974,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.886,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0010",
+      "text": "484-V-2564",
+      "bbox": [
+        570.0,
+        12.0,
+        601.0,
+        22.0
+      ],
+      "confidence": 0.9229,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0011",
+      "text": "SERVICE",
+      "bbox": [
+        679.0,
+        21.0,
+        700.0,
+        32.0
+      ],
+      "confidence": 0.9875,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0012",
+      "text": "TEN NO.",
+      "bbox": [
+        680.0,
+        13.0,
+        700.0,
+        21.0
+      ],
+      "confidence": 0.8308,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0013",
+      "text": "484-P-24814/0",
+      "bbox": [
+        752.0,
+        12.0,
+        793.0,
+        22.0
+      ],
+      "confidence": 0.7838,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0014",
+      "text": "SEPMCE",
+      "bbox": [
+        110.0,
+        22.0,
+        130.0,
+        30.0
+      ],
+      "confidence": 0.8656,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8832,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0015",
+      "text": "SEMCE",
+      "bbox": [
+        294.0,
+        22.0,
+        314.0,
+        30.0
+      ],
+      "confidence": 0.7943,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0016",
+      "text": "NOTES",
+      "bbox": [
+        1024.0,
+        14.0,
+        1047.0,
+        22.0
+      ],
+      "confidence": 0.9998,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8775,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0017",
+      "text": "S2X (DIMCTIR/ADNET)",
+      "bbox": [
+        95.0,
+        33.0,
+        140.0,
+        40.0
+      ],
+      "confidence": 0.7232,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8923,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0018",
+      "text": "nm",
+      "bbox": [
+        278.0,
+        32.0,
+        290.0,
+        41.0
+      ],
+      "confidence": 0.5688,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0019",
+      "text": "NOFOR JRNDH CDNTRFUGHL PNP",
+      "bbox": [
+        336.0,
+        31.0,
+        403.0,
+        41.0
+      ],
+      "confidence": 0.7402,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0020",
+      "text": "DESICN PREST",
+      "bbox": [
+        94.0,
+        41.0,
+        124.0,
+        51.0
+      ],
+      "confidence": 0.8949,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8765,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0021",
+      "text": "125 pig / PU. VACCON",
+      "bbox": [
+        152.0,
+        41.0,
+        204.0,
+        51.0
+      ],
+      "confidence": 0.7612,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0022",
+      "text": "2 (2R/069)",
+      "bbox": [
+        482.0,
+        33.0,
+        525.0,
+        40.0
+      ],
+      "confidence": 0.5512,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8933,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0023",
+      "text": "1580 mm X 4000 mm",
+      "bbox": [
+        538.0,
+        33.0,
+        582.0,
+        40.0
+      ],
+      "confidence": 0.815,
+      "kind": "DIAMETER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.9798,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0024",
+      "text": "DETION TEMP.",
+      "bbox": [
+        94.0,
+        51.0,
+        122.0,
+        61.0
+      ],
+      "confidence": 0.8877,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.886,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0025",
+      "text": "24 PR",
+      "bbox": [
+        278.0,
+        51.0,
+        307.0,
+        61.0
+      ],
+      "confidence": 0.6024,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.877,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0026",
+      "text": "DIPACITY",
+      "bbox": [
+        279.0,
+        42.0,
+        297.0,
+        50.0
+      ],
+      "confidence": 0.9066,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0027",
+      "text": "20 p",
+      "bbox": [
+        335.0,
+        51.0,
+        355.0,
+        62.0
+      ],
+      "confidence": 0.9071,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8717,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0028",
+      "text": "5m2/h",
+      "bbox": [
+        336.0,
+        42.0,
+        355.0,
+        50.0
+      ],
+      "confidence": 0.7953,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0029",
+      "text": "[0 14)",
+      "bbox": [
+        365.0,
+        42.0,
+        386.0,
+        50.0
+      ],
+      "confidence": 0.7478,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8815,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0030",
+      "text": "88 t",
+      "bbox": [
+        152.0,
+        52.0,
+        166.0,
+        60.0
+      ],
+      "confidence": 0.6248,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.886,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0031",
+      "text": "24 PRESS",
+      "bbox": [
+        489.0,
+        43.0,
+        507.0,
+        50.0
+      ],
+      "confidence": 0.8857,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8793,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0032",
+      "text": "125 prig / FAL WODUW",
+      "bbox": [
+        538.0,
+        43.0,
+        587.0,
+        50.0
+      ],
+      "confidence": 0.8909,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0033",
+      "text": "ANDTY",
+      "bbox": [
+        666.0,
+        43.0,
+        681.0,
+        50.0
+      ],
+      "confidence": 0.6199,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0034",
+      "text": "5 m2m",
+      "bbox": [
+        721.0,
+        43.0,
+        740.0,
+        51.0
+      ],
+      "confidence": 0.7039,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.877,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0035",
+      "text": "(NDE 14)",
+      "bbox": [
+        750.0,
+        43.0,
+        772.0,
+        50.0
+      ],
+      "confidence": 0.673,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8793,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0036",
+      "text": "WORM",
+      "bbox": [
+        95.0,
+        62.0,
+        112.0,
+        70.0
+      ],
+      "confidence": 0.8027,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8839,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0037",
+      "text": "C5 + 3  ON (PORY UMNG + AMES)",
+      "bbox": [
+        151.0,
+        61.0,
+        236.0,
+        71.0
+      ],
+      "confidence": 0.6334,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8868,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0038",
+      "text": "BATRA",
+      "bbox": [
+        278.0,
+        61.0,
+        296.0,
+        69.0
+      ],
+      "confidence": 0.6226,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8837,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0039",
+      "text": "DE",
+      "bbox": [
+        335.0,
+        60.0,
+        386.0,
+        70.0
+      ],
+      "confidence": 0.5947,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8816,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0040",
+      "text": "\u7565\u03c4/(H)45\u2103",
+      "bbox": [
+        538.0,
+        53.0,
+        575.0,
+        60.0
+      ],
+      "confidence": 0.6726,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8882,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0041",
+      "text": "UIS + 3",
+      "bbox": [
+        538.0,
+        62.0,
+        559.0,
+        69.0
+      ],
+      "confidence": 0.9254,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0042",
+      "text": "(POXY LINNG + ANDOES)",
+      "bbox": [
+        574.0,
+        62.0,
+        625.0,
+        69.0
+      ],
+      "confidence": 0.8769,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0043",
+      "text": "DSCA PRESS.",
+      "bbox": [
+        666.0,
+        53.0,
+        691.0,
+        60.0
+      ],
+      "confidence": 0.6931,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8793,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0044",
+      "text": "30 p0ig",
+      "bbox": [
+        722.0,
+        53.0,
+        741.0,
+        61.0
+      ],
+      "confidence": 0.5716,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8455,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0045",
+      "text": "0140",
+      "bbox": [
+        152.0,
+        71.0,
+        168.0,
+        79.0
+      ],
+      "confidence": 0.5345,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.886,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0046",
+      "text": "DHPLDY STAMILESS STEEL",
+      "bbox": [
+        722.0,
+        62.0,
+        770.0,
+        69.0
+      ],
+      "confidence": 0.8546,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8838,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0047",
+      "text": "M",
+      "bbox": [
+        96.0,
+        73.0,
+        103.0,
+        78.0
+      ],
+      "confidence": 0.4779,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8767,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0048",
+      "text": "161640",
+      "bbox": [
+        537.0,
+        72.0,
+        554.0,
+        79.0
+      ],
+      "confidence": 0.5622,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8846,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0049",
+      "text": "10",
+      "bbox": [
+        144.0,
+        85.0,
+        159.0,
+        95.0
+      ],
+      "confidence": 0.596,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8801,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0050",
+      "text": "NT10",
+      "bbox": [
+        143.0,
+        112.0,
+        160.0,
+        119.0
+      ],
+      "confidence": 0.6591,
+      "kind": "TAG",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.7983,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0051",
+      "text": "10",
+      "bbox": [
+        144.0,
+        132.0,
+        157.0,
+        138.0
+      ],
+      "confidence": 0.8133,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8809,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0052",
+      "text": "HITE 25",
+      "bbox": [
+        181.0,
+        133.0,
+        200.0,
+        141.0
+      ],
+      "confidence": 0.818,
+      "kind": "TAG",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8881,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0053",
+      "text": "1/100",
+      "bbox": [
+        183.0,
+        322.0,
+        197.0,
+        330.0
+      ],
+      "confidence": 0.6894,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.8695,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0054",
+      "text": "NOTE",
+      "bbox": [
+        133.0,
+        333.0,
+        148.0,
+        340.0
+      ],
+      "confidence": 0.8518,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.7781,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0055",
+      "text": "N0T 26",
+      "bbox": [
+        507.0,
+        347.0,
+        525.0,
+        354.0
+      ],
+      "confidence": 0.5691,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": "BR-4455",
+      "instrument_id": null,
+      "association_status": "assigned",
+      "association_confidence": 0.8838,
+      "association_reason": "geometry_and_kind"
+    },
+    {
+      "id": "T-0056",
+      "text": "1:100",
+      "bbox": [
+        705.0,
+        698.0,
+        719.0,
+        706.0
+      ],
+      "confidence": 0.9177,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": "BR-5360",
+      "instrument_id": null,
+      "association_status": "assigned",
+      "association_confidence": 0.7179,
+      "association_reason": "geometry_and_kind"
+    },
+    {
+      "id": "T-0057",
+      "text": "sOE s",
+      "bbox": [
+        854.0,
+        697.0,
+        872.0,
+        708.0
+      ],
+      "confidence": 0.5195,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": "BR-6367",
+      "instrument_id": null,
+      "association_status": "assigned",
+      "association_confidence": 0.6814,
+      "association_reason": "geometry_and_kind"
+    },
+    {
+      "id": "T-0058",
+      "text": "IR0W-0H00P-,=00",
+      "bbox": [
+        413.0,
+        721.0,
+        459.0,
+        728.0
+      ],
+      "confidence": 0.6326,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": null,
+      "instrument_id": null,
+      "association_status": "unresolved",
+      "association_confidence": 0.6284,
+      "association_reason": "ambiguous_pipe_candidates"
+    },
+    {
+      "id": "T-0059",
+      "text": "11304",
+      "bbox": [
+        537.0,
+        725.0,
+        555.0,
+        732.0
+      ],
+      "confidence": 0.7116,
+      "kind": "OTHER",
+      "angle": 0.0,
+      "source": "paddleocr",
+      "pipe_id": "BR-5360",
+      "instrument_id": null,
+      "association_status": "assigned",
+      "association_confidence": 0.8053,
+      "association_reason": "geometry_and_kind"
+    }
+  ],
+  "rules": {
+    "exclusive_thick": "thick",
+    "exclusive_thin": "thin",
+    "both_networks": "thick",
+    "unverified_or_ambiguous": "review"
+  }
+}

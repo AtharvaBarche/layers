@@ -1,0 +1,433 @@
+{
+  "endpoints": [
+    {
+      "xy": [
+        40.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0002"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0001",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        41.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0003"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0002",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        230.0,
+        327.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0018"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0003",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        230.0,
+        412.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0027"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0004",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        475.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0032"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0005",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        566.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0060"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0006",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        760.0,
+        42.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0070"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        90.0
+      ],
+      "id": "E-0007",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        872.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0089"
+      ],
+      "width_ratio": 0.866,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0008",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1042.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0090"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0009",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        961.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0174"
+      ],
+      "width_ratio": 0.833,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0010",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1119.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0208"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        0.0
+      ],
+      "id": "E-0011",
+      "kind": "endpoint",
+      "role": "instrument_port",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1319.0,
+        560.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0208"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0012",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1180.0,
+        340.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0213"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0013",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        1320.0,
+        250.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0215"
+      ],
+      "width_ratio": 0.667,
+      "angles": [
+        180.0
+      ],
+      "id": "E-0014",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        430.0,
+        799.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0041"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0015",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    },
+    {
+      "xy": [
+        760.0,
+        859.0
+      ],
+      "degree": 1,
+      "branch_ids": [
+        "BR-0081"
+      ],
+      "width_ratio": 0.467,
+      "angles": [
+        270.0
+      ],
+      "id": "E-0016",
+      "kind": "endpoint",
+      "role": "free",
+      "confidence": 0.8
+    }
+  ],
+  "junctions": [
+    {
+      "xy": [
+        230.0,
+        250.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0002",
+        "BR-0018",
+        "BR-0032"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0,
+        90.0,
+        0.0
+      ],
+      "id": "J-0001",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        230.0,
+        559.67
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0003",
+        "BR-0027",
+        "BR-0033"
+      ],
+      "width_ratio": 0.732,
+      "angles": [
+        180.0,
+        270.0,
+        0.0
+      ],
+      "id": "J-0002",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        430.0,
+        560.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0033",
+        "BR-0049",
+        "BR-0041"
+      ],
+      "width_ratio": 0.732,
+      "angles": [
+        180.0,
+        0.0,
+        90.0
+      ],
+      "id": "J-0003",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    },
+    {
+      "xy": [
+        1180.0,
+        250.33
+      ],
+      "degree": 3,
+      "branch_ids": [
+        "BR-0174",
+        "BR-0213",
+        "BR-0215"
+      ],
+      "width_ratio": 1.0,
+      "angles": [
+        180.0,
+        90.0,
+        0.0
+      ],
+      "id": "J-0004",
+      "kind": "junction",
+      "confidence": 0.84,
+      "note": "branch"
+    }
+  ],
+  "visual_crossings": [
+    {
+      "xy": [
+        760.0,
+        560.0
+      ],
+      "degree": 4,
+      "branch_ids": [
+        "BR-0049",
+        "BR-0075",
+        "BR-0090",
+        "BR-0081"
+      ],
+      "width_ratio": 0.933,
+      "angles": [
+        180.0,
+        270.0,
+        0.0,
+        90.0
+      ],
+      "id": "X-0001",
+      "kind": "visual_crossing",
+      "confidence": 0.74,
+      "note": "collinear_pairs_without_junction_blob"
+    },
+    {
+      "xy": [
+        760.0,
+        250.0
+      ],
+      "degree": 4,
+      "branch_ids": [
+        "BR-0060",
+        "BR-0070",
+        "BR-0075",
+        "BR-0089"
+      ],
+      "width_ratio": 0.866,
+      "angles": [
+        180.0,
+        270.0,
+        90.0,
+        0.0
+      ],
+      "id": "X-0002",
+      "kind": "visual_crossing",
+      "confidence": 0.74,
+      "note": "collinear_pairs_without_junction_blob"
+    }
+  ],
+  "unresolved_crossings": []
+}
